@@ -1,0 +1,11 @@
+{
+    "model_types": ["gpt", "sentence_bert", "tapex", "llama"],
+    "gpt_models": ["gpt-4", "gpt-4-32k", "gpt-35-turbo"],
+    "table_types": ["markdown", "keyword", "query"],
+    "bert_models": ["model_weight/all-MiniLM-L6-v2", "model_weight/all-mpnet-base-v2", "multi-qa-mpnet-base-dot-v1", "multi-qa-distilbert-cos-v1"],
+    "data_path": "data/table_data.json",
+    "output_path": "output/",
+    "threshold": 0.5,
+    "top_k": 10,
+    "run_types": ["text_table", "doc_text", "summary", "doc_table"]
+}

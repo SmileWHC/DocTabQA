@@ -1,0 +1,1704 @@
+{
+    "snx-2017x10k_fileoutpart64": {
+        "predict": "Output: \n\n|   | **Fiscal Years Ended November 30, ** |   |   |<NEWLINE>|   | **2017 ** | **2016 ** | **2015 ** |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **Effective income tax rate ** | 35.2% | 34.0% | 36.2% |",
+        "target": [
+            "|   | **Fiscal Years Ended November 30, ** |   |   |",
+            "|   | **2017 ** | **2016 ** | **2015 ** |",
+            "| --- | --- | --- | --- |",
+            "| **Effective income tax rate ** | 35.2 %  | 34.0 %  | 36.2 %  |"
+        ]
+    },
+    "ramp-20210331_fileoutpart13": {
+        "predict": "|   | **2021 ** | **2020 ** | **% Change 2021-2020 ** |\n| --- | --- | --- | --- |\n| **Cost of revenue ** | $177.5 million | $188.9 million | -6.0% |\n| **Gross margin (%) ** | 67.5% | 59.9% | 7.6% |<NEWLINE>",
+        "target": [
+            "|   | **2021 ** | **2020 ** | **% Change 2021-2020 ** |",
+            "| --- | --- | --- | --- |",
+            "| **Cost of revenue ** | - | - | (6)%  |",
+            "| **Gross margin (%) ** | 67.5 %  | 59.9 %  | - |"
+        ]
+    },
+    "aap-20221231_fileoutpart5": {
+        "predict": "Output Content: | **(in millions) ** |   |   | **Year Ended ** |   | **2022 vs. 2021 $ Change ** | **Basis Points ** |<NEWLINE>|   | **December 31, 2022 ** |   | **January 1, 2022 ** |   |   |   |<NEWLINE>| --- | --- | --- | --- | --- | --- | --- |<NEWLINE>| **Net sales ** | $11,200 |   | $11,043.3 | $156.7 | 1.4% |   |<NEWLINE>| **Cost of sales ** | $6,200 |   | $6,143.3 |   |   |   |<NEWLINE>| **Gross profit ** | $5,000 |   | $4,900 | -$100 | -2.04% | -33 |<NEWLINE>| **SG&A ** | $4,200 | 38.1% | $4,100 | $100 | 2.44% | 89 |<NEWLINE>| **Operating income ** | $714.2 | 6.4% | $838.8 | -$124.6 | -14.87% | -122 |<NEWLINE>| **Interest expense ** | $51.1 |   | $37.8 | $13.3 | 35.18% |   |<NEWLINE>| **Provision for income taxes ** | $146.8 |   | $189.8 | -$43.0 | -22.66% |   |",
+        "target": [
+            "| **(in millions) ** |   |   | **Year Ended ** |   | **2022 vs. 2021 $ Change ** | **Basis Points ** |",
+            "|   | **December 31, 2022 ** |   | **January 1, 2022 ** |   |   |   |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| **Net sales ** | - | - | - | - | $ 156.7  | - |",
+            "| **Cost of sales ** | - | - | - | - | - | 33  |",
+            "| **Gross profit ** | - | 44.5  | - | 44.8  | - | (33)  |",
+            "| **SG&A ** | - | 38.1  | - | 37.2  | - | 89  |",
+            "| **Operating income ** | 714.2  | 6.4  | - | - | (124.6)  | (122)  |",
+            "| **Interest expense ** | (51.1)  | - | - | - | (13.3)  | - |",
+            "| **Provision for income taxes ** | (146.8)  | - | (189.8)  | - | 43.0  | - |"
+        ]
+    },
+    "drq-10q_20200930_fileoutpart23": {
+        "predict": "Output: \n\n|   | **Three months ended September 30, ** |   | **Nine months ended September 30, ** |   |\n| --- | --- | --- | --- | --- |\n| **2020 ** | **2019 ** | **2020 ** | **2019 ** |\n| **Products ** | 72.8% | 75.6% | 71.0% | 73.3% |\n| **Services ** | 19.5% | 16.5% | 20.6% | 17.3% |\n| **Leasing ** | 7.7% | 7.9% | 8.4% | 9.4% |\n| **Total revenues ** |   |   |   |   |\n| **Total cost of sales ** | 73.7% | 70.3% | 74.0% | 71.6% |\n| **Engineering and product development ** | $4.0 million | $3.8 million | $14.9 million | $12.5 million |\n| **Restructuring and other charges ** |   | $0.5 million |   | $4.0 million |\n| **Gain on sale of assets ** |   | $0.3 million | $0.5 million |   |\n| **Foreign currency transaction (gains) and losses ** | $0.7 million loss | $1.1 million gain | $1.7 million gain | $2.1 million gain |\n| **Operating income (loss) ** |   |   |   |   |\n| **Income tax provision (benefit) ** |   |   |   | $8.9 million |<NEWLINE>",
+        "target": [
+            "|   | **Three months ended September 30, ** |   | **Nine months ended September 30, ** |   |",
+            "|   | **2020 ** | **2019 ** | **2020 ** | **2019 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Products ** | 72.8%  | 75.6%  | 71.0%  | 73.3%  |",
+            "| **Services ** | 19.5  | 16.5  | 20.6  | 17.3  |",
+            "| **Leasing ** | 7.7  | 7.9  | 8.4  | 9.4  |",
+            "| **Total revenues ** | 100.0  | 100.0  | 100.0  | 100.0  |",
+            "| **Total cost of sales ** | 73.7  | 70.3  | 74.0  | 71.6  |",
+            "| **Engineering and product development ** | 4.4  | 3.5  | - | - |",
+            "| **Restructuring and other charges ** | - | 0.5  | - | - |",
+            "| **Gain on sale of assets ** | - | (0.3)  | - | (0.5)  |",
+            "| **Foreign currency transaction (gains) and losses ** | - | (1.1)  | - | (0.7)  |",
+            "| **Operating income (loss) ** | (2.4)  | 0.2  | (18.8)  | - |",
+            "| **Income tax provision (benefit) ** | - | 3.2  | (11.1)  | - |"
+        ]
+    },
+    "uve-20220630_fileoutpart33": {
+        "predict": "Output Content: |   | **Three Months Ended June 30, ** |   | **Six Months Ended June 30, ** |   |<NEWLINE>|   | **2022 ** | **2021 ** | **2022 ** | **2021 ** |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Basic earnings (loss) per common share ** |   |   |   |   |<NEWLINE>| **Diluted earnings (loss) per common share ** | $0.24 | $0.70 | $0.80 | $1.54 |",
+        "target": [
+            "|   | **Three Months Ended June 30, ** |   | **Six Months Ended June 30, ** |   |",
+            "|   | **2022 ** | **2021 ** | **2022 ** | **2021 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Basic earnings (loss) per common share ** | $ 0.24  | $ 0.70  | - | - |",
+            "| **Diluted earnings (loss) per common share ** | $ 0.24  | $ 0.70  | $ 0.80  | $ 1.54  |"
+        ]
+    },
+    "g8692a_fileoutpart15": {
+        "predict": "Output: |   | **Three months February 28, 2019 ** | **Ended February 28, 2018 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Net cash (used in) operating activities ** | $84,108 | $4,936 |<NEWLINE>| **Net cash provided by financing activities ** | $87,000 | $10,000 |",
+        "target": [
+            "|   | **Three months February 28, 2019 ** | **Ended February 28, 2018 ** |",
+            "| --- | --- | --- |",
+            "| **Net cash (used in) operating activities ** | $ (84,108)  | $ (4,936)  |",
+            "| **Net cash provided by financing activities ** | 87,000  | 10,000  |"
+        ]
+    },
+    "f10q0120_digeratitech_fileoutpart15": {
+        "predict": "Output Content: | **Description ** | **Fair Value ** |   |<NEWLINE>|   |   | **Significant unobservable inputs (Level 3) ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Convertible promissory notes derivative liability at July 31, 2019 ** | $927,171 |   |<NEWLINE>| **Convertible promissory notes derivative liability at January 31, 2020 ** | $763,969 |   |",
+        "target": [
+            "| **Description ** | **Fair Value ** |   |",
+            "|   |   | **Significant unobservable inputs (Level 3) ** |",
+            "| --- | --- | --- |",
+            "| **Convertible promissory notes derivative liability at July 31, 2019 ** | $ 927,171  | $ 927,171  |",
+            "| **Convertible promissory notes derivative liability at January 31, 2020 ** | $ 763,969  | $ 763,969  |"
+        ]
+    },
+    "f10q0120_digeratitech_fileoutpart4": {
+        "predict": "Output Content: |   | **Three months ended January 31, ** |   | **Six months ended January 31, ** |   |<NEWLINE>|   | **2020 ** | **2019 ** | **2020 ** | **2019 ** |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Depreciation and amortization expense ** | $316,000 |   | $316,000 |   |<NEWLINE>| **OPERATING LOSS ** | $699,000 | $496,000 | $1,370,000 | $909,000 |<NEWLINE>| **Gain (loss) on derivative instruments ** |   |   | $318,000 |   |<NEWLINE>| **NET LOSS INCLUDING NONCONTROLLING INTEREST ** | $501,000 | $2,530,000 | $2,022,000 | $3,471,000 |<NEWLINE>| **Less: Net loss attributable to the noncontrolling interests ** | $44,000 |   | $57,000 | $58,000 |<NEWLINE>| **NET LOSS ATTRIBUTABLE TO DIGERATI’S SHAREHOLDERS ** | $457,000 | $2,499,000 | $1,965,000 | $3,413,000 |<NEWLINE>| **NET LOSS ATTRIBUTABLE TO DIGERATI’S COMMON SHAREHOLDERS ** |   |   |   |   |",
+        "target": [
+            "|   | **Three months ended January 31, ** |   | **Six months ended January 31, ** |   |",
+            "|   | **2020 ** | **2019 ** | **2020 ** | **2019 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Depreciation and amortization expense ** | - | - | 316  | - |",
+            "| **OPERATING LOSS ** | (699)  | (496)  | (1,370)  | (909)  |",
+            "| **Gain (loss) on derivative instruments ** | - | - | 318  | - |",
+            "| **NET LOSS INCLUDING NONCONTROLLING INTEREST ** | (501)  | (2,530)  | (2,022)  | (3,471)  |",
+            "| **Less: Net loss attributable to the noncontrolling interests ** | 44  | - | 57  | 58  |",
+            "| **NET LOSS ATTRIBUTABLE TO DIGERATI’S SHAREHOLDERS ** | (457)  | (2,499)  | (1,965)  | (3,413)  |",
+            "| **NET LOSS ATTRIBUTABLE TO DIGERATI’S COMMON SHAREHOLDERS ** | $ (457)  | $ (2,499)  | $ (1,965)  | $ (3,413)  |"
+        ]
+    },
+    "f10q0120_digeratitech_fileoutpart8": {
+        "predict": "Output Content: \n\n|   | **Six months ended January 31, ** |   |\n| --- | --- | --- |\n|   | **2020 ** | **2019 ** |\n| **Net loss ** | $2,022,000  | $3,471,000  |\n| **Depreciation and amortization ** | $316,000  |   |\n| **Stock compensation and warrant expense ** | $834,000  |   |\n| **Amortization of debt discount ** | $713,000  |   |\n| **Loss (Gain) on derivative liabilities ** | $318,000  |   |\n| **Accrued expenses ** | $301,000  |   |\n| **Deferred income ** | -$69,000  |   |\n| **Cash paid in acquisition of equipment ** | $34,000  |   |\n| **Borrowings from convertible debt, net of original issuance cost and discounts ** | $150,000  |   |\n| **Principal payments on convertible notes, net ** | $36,000  |   |\n| **Principal payments on related party notes, net ** | $67,000  |   |\n| **CASH AND CASH EQUIVALENTS, end of period ** | $376,000  |   |<NEWLINE>",
+        "target": [
+            "|   | **Six months ended January 31, ** |   |",
+            "|   | **2020 ** | **2019 ** |",
+            "| --- | --- | --- |",
+            "| **Net loss ** | $ (2,022)  | $ (3,471)  |",
+            "| **Depreciation and amortization ** | 316  | - |",
+            "| **Stock compensation and warrant expense ** | 834  | - |",
+            "| **Amortization of debt discount ** | 713  | - |",
+            "| **Loss (Gain) on derivative liabilities ** | (318)  | - |",
+            "| **Accrued expenses ** | 301  | - |",
+            "| **Deferred income ** | 69  | - |",
+            "| **Cash paid in acquisition of equipment ** | (34)  | - |",
+            "| **Borrowings from convertible debt, net of original issuance cost and discounts ** | 150  | 419  |",
+            "| **Principal payments on convertible notes, net ** | (36)  | - |",
+            "| **Principal payments on related party notes, net ** | (67)  | - |",
+            "| **CASH AND CASH EQUIVALENTS, end of period ** | $ 376  | - |"
+        ]
+    },
+    "cb-20210331_fileoutpart3": {
+        "predict": "Output Content: \n\n| **(in millions of U.S. dollars) ** | **Three Months Ended March 31 ** |   |\n| --- | --- | --- |\n|   | **2021 ** | **2020 ** |\n| **Net income ** | 2,300 | 252 |\n| **Amortization of purchased intangibles ** | 72 | 73 |\n| **Net cash flows from operating activities ** | 2,105 | 1,712 |\n| **Common Shares repurchased ** | 519 |   |\n| **Repayment of repurchase agreements ** |   |   |\n| **Net cash flows used for financing activities ** | 812 | 645 |<NEWLINE>",
+        "target": [
+            "| **(in millions of U.S. dollars) ** | **Three Months Ended March 31 ** |   |",
+            "|   | **2021 ** | **2020 ** |",
+            "| --- | --- | --- |",
+            "| **Net income ** | - | $ 252  |",
+            "| **Amortization of purchased intangibles ** | 72  | 73  |",
+            "| **Net cash flows from operating activities ** | 2,105  | 1,712  |",
+            "| **Common Shares repurchased ** | (519)  | - |",
+            "| **Repayment of repurchase agreements ** | (450)  | - |",
+            "| **Net cash flows used for financing activities ** | (812)  | (645)  |"
+        ]
+    },
+    "cb-20210331_fileoutpart35": {
+        "predict": "Output: \n\n|   | **Three Months Ended ** |   |   |<NEWLINE>|   |   | **March 31, 2021** | **March 31, 2020** | **% Change ** |<NEWLINE>| **Net premiums written ** |   | $8.7 billion |   | 8.6% |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Net premiums written - constant dollars (1) ** | $8.7 billion |   | 7.0% |<NEWLINE>| **Net premiums earned ** | $8.2 billion |   | 5.5% |<NEWLINE>| **Net investment income ** | $863 million | $861 million | 0.2% |<NEWLINE>| **Policy benefits ** | $167 million | $129 million | 29.5% |<NEWLINE>| **Amortization of purchased intangibles ** | $72 million | $73 million | -1.4% |<NEWLINE>| **Net income ** | $2.3 billion | $252 million | 812.7% |",
+        "target": [
+            "|   | **Three Months Ended ** |   |   |",
+            "|   |   | **March 31 ** | **% Change ** |",
+            "| **Net premiums written ** | - | - | 8.6 %  |",
+            "| --- | --- | --- | --- |",
+            "| **Net premiums written - constant dollars (1) ** |   |   | 7.0 %  |",
+            "| **Net premiums earned ** | - | - | 5.5 %  |",
+            "| **Net investment income ** | 863  | 861  | - |",
+            "| **Policy benefits ** | 167  | 129  | - |",
+            "| **Amortization of purchased intangibles ** | 72  | 73  | - |",
+            "| **Net income ** | - | $ 252  | - |"
+        ]
+    },
+    "cb-20210331_fileoutpart41": {
+        "predict": "Output: \n\n|   | **March 31 ** | **% Change ** |\n| **(in millions of U.S. dollars, except for percentages) ** | **2020 ** | **Q-21 vs. Q-20 ** |\n| --- | --- | --- |\n| **Net premiums written ** | | -0.8% |\n| **Net premiums earned ** | | -1.3% |\n| **CAY loss ratio excluding catastrophe losses ** | | -1.9% |\n| **Loss and loss expense ratio ** | | +20.4% |\n| **Policy acquisition cost ratio ** | | +0.5% |\n| **Administrative expense ratio ** | | -0.6% |<NEWLINE>",
+        "target": [
+            "|   | **March 31 ** | **% Change ** |",
+            "| **(in millions of U.S. dollars, except for percentages) ** | **2020 ** | **Q-21 vs. Q-20 ** |",
+            "| --- | --- | --- |",
+            "| **Net premiums written ** | - | (0.8)%  |",
+            "| **Net premiums earned ** | - | (1.3)%  |",
+            "| **CAY loss ratio excluding catastrophe losses ** | - | (1.9) pts  |",
+            "| **Loss and loss expense ratio ** | - | 12.2 pts  |",
+            "| **Policy acquisition cost ratio ** | 20.4 %  | 0.5 pts  |",
+            "| **Administrative expense ratio ** | - | (0.6) pts  |"
+        ]
+    },
+    "cb-20210331_fileoutpart22": {
+        "predict": "Output Content: \n\n| **(in millions of U.S. dollars) ** | **Three Months Ended March 31 ** |   |   |<NEWLINE>|   | **Long-tail ** | **Short-tail ** | **Total ** |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **North America Commercial P&C Insurance ** | 46 | 81 | 127 |<NEWLINE>| **North America Personal P&C Insurance ** |  | 40 | 40 |<NEWLINE>| **Total ** | 46 | 121 | 167 |<NEWLINE>| **North America Commercial P&C Insurance ** |  | 62 | 62 |",
+        "target": [
+            "| **(in millions of U.S. dollars) ** | **Three Months Ended March 31 ** |   |   |",
+            "|   | **Long-tail ** | **Short-tail ** | **Total ** |",
+            "| --- | --- | --- | --- |",
+            "| **North America Commercial P&C Insurance ** | $ (46)  | $ (81)  | $ (127)  |",
+            "| **North America Personal P&C Insurance ** | - | (40)  | (40)  |",
+            "| **Total ** | - | - | $ (192)  |",
+            "| **North America Commercial P&C Insurance ** | - | $ (62)  | - |"
+        ]
+    },
+    "cb-20210331_fileoutpart38": {
+        "predict": "Output: |   | **Three Months Ended March 31 ** |   |<NEWLINE>|   | **2021 ** | **2020 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Catastrophe losses ** | $700 million pre-tax, $570 million after-tax | $237 million pre-tax, $199 million after-tax |<NEWLINE>| **Prior period development ** | $192 million pre-tax, $156 million after-tax | $118 million pre-tax, $94 million after-tax |<NEWLINE>| **P&C Combined ratio ** | 91.8% | 89.1% |",
+        "target": [
+            "|   | **Three Months Ended March 31 ** |   |",
+            "|   | **2021 ** | **2020 ** |",
+            "| --- | --- | --- |",
+            "| **Catastrophe losses ** | 9.1 %  | 3.3 %  |",
+            "| **Prior period development ** | (2.6)%  | (1.7)%  |",
+            "| **P&C Combined ratio ** | 91.8 %  | 89.1 %  |"
+        ]
+    },
+    "cb-20210331_fileoutpart55": {
+        "predict": "|   | **Three Months Ended March 31 ** |   |\n| --- | --- | --- |\n| **(in millions of U.S. dollars) ** | **2021 ** | **2020 ** |\n| **Gains (losses) from fair value changes in separate account assets (2) ** | $4  | $(56) |<NEWLINE>",
+        "target": [
+            "|   | **Three Months Ended March 31 ** |   |",
+            "| **(in millions of U.S. dollars) ** | **2021 ** | **2020 ** |",
+            "| --- | --- | --- |",
+            "| **Gains (losses) from fair value changes in separate account assets (2) ** | 4  | (56)  |"
+        ]
+    },
+    "cb-20210331_fileoutpart37": {
+        "predict": "Output Content: | **(in millions of U.S. dollars) ** | **Three Months Ended March 31 ** |   |<NEWLINE>|   | **2021 ** | **2020 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Catastrophe losses ** | $700 ($570 after tax) | $237 ($199 after tax) |<NEWLINE>| **Favorable prior period development ** | $192 ($156 after tax) | $118 ($94 after tax) |",
+        "target": [
+            "| **(in millions of U.S. dollars) ** | **Three Months Ended March 31 ** |   |",
+            "|   | **2021 ** | **2020 ** |",
+            "| --- | --- | --- |",
+            "| **Catastrophe losses ** | $ 700  | $ 237  |",
+            "| **Favorable prior period development ** | $ 192  | $ 118  |"
+        ]
+    },
+    "f10q0321_accelerateacq_fileoutpart6": {
+        "predict": "Output: | --- | --- |<NEWLINE>| **Net income ** | **$ 6,719,798 ** |<NEWLINE>| **Transaction costs incurred in connection with IPO ** | **$ 22,590,881 ** |<NEWLINE>| **Investment of cash in Trust Account ** | **$ 400,000,000 ** |<NEWLINE>| **Net cash used in investing activities ** |   |<NEWLINE>| **Proceeds from sale of Private Placement Warrants ** | **$ 11,000,000 ** |<NEWLINE>| **Net Change in Cash ** |   |<NEWLINE>| **Cash – End of period ** | **$ 1,321,004 ** |<NEWLINE>| **Deferred underwriting fee payable ** | **$ 14,000,000 ** |",
+        "target": [
+            "| --- | --- |",
+            "| **Net income ** | **$ 6,719,798 ** |",
+            "| **Transaction costs incurred in connection with IPO ** | 801,198  |",
+            "| **Investment of cash in Trust Account ** | (400,000,000)  |",
+            "| **Net cash used in investing activities ** | (400,000,000)  |",
+            "| **Proceeds from sale of Private Placement Warrants ** | 11,000,000  |",
+            "| **Net Change in Cash ** | 1,321,004  |",
+            "| **Cash – End of period ** | $ 1,321,004  |",
+            "| **Deferred underwriting fee payable ** | $ 14,000,000  |"
+        ]
+    },
+    "f10q1222_etfmanagers1_fileoutpart27": {
+        "predict": "Output Content: \n\n|   | **THREE MONTHS ENDED DECEMBER 31, 2022 ** | **THREE MONTHS ENDED DECEMBER 31, 2021 ** |\n| --- | --- | --- |\n| **Net asset value per Share, beginning of period ** | $8.75 | $35.62 |\n| **Net Asset Value per Share, end of period ** | $9.38 | $29.65 |\n| **Market Value per Share, end of period ** | $9.19 | $29.49 |\n| **Expense Ratio*** ** |   |   |\n| **Total Return, at Net Asset Value** ** | +7.20% | -16.76% |\n| **Total Return, at Market Value** ** | +1.66% | -18.11% |<NEWLINE>",
+        "target": [
+            "|   | **THREE MONTHS ENDED DECEMBER 31, 2022 ** | **THREE MONTHS ENDED DECEMBER 31, 2021 ** |",
+            "|   | **BREAKWAVE DRY BULK SHIPPING ETF ** | **BREAKWAVE DRY BULK SHIPPING ETF ** |",
+            "| --- | --- | --- |",
+            "| **Net asset value per Share, beginning of period ** | $ 8.75  | $ 35.62  |",
+            "| **Net Asset Value per Share, end of period ** | $ 9.38  | $ 29.65  |",
+            "| **Market Value per Share, end of period ** | $ 9.19  | $ 29.49  |",
+            "| **Expense Ratio*** ** | 5.04%  | - |",
+            "| **Total Return, at Net Asset Value** ** | 7.20%  | - |",
+            "| **Total Return, at Market Value** ** | 1.66%  | (18.11)%  |"
+        ]
+    },
+    "f10q1222_etfmanagers1_fileoutpart28": {
+        "predict": "Output Content: |   | **SIX MONTHS ENDED DECEMBER 31, 2022 ** | **SIX MONTHS ENDED DECEMBER 31, 2021 ** |<NEWLINE>|   | **BREAKWAVE DRY BULK SHIPPING ETF ** | **BREAKWAVE DRY BULK SHIPPING ETF ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Net asset value per Share, beginning of period ** | $17.06 | $28.88 |<NEWLINE>| **Net Asset Value per Share, end of period ** | $9.38 (-45.02%) | $29.65 (+2.67%) |<NEWLINE>| **Market Value per Share, end of period ** | $9.19 (-46.48%) | $29.49 (+0.48%) |<NEWLINE>| **Total Return, at Net Asset Value** ** |   |   |<NEWLINE>| **Total Return, at Market Value** ** |   |   |",
+        "target": [
+            "|   | **SIX MONTHS ENDED DECEMBER 31, 2022 ** | **SIX MONTHS ENDED DECEMBER 31, 2021 ** |",
+            "|   | **BREAKWAVE DRY BULK SHIPPING ETF ** | **BREAKWAVE DRY BULK SHIPPING ETF ** |",
+            "| --- | --- | --- |",
+            "| **Net asset value per Share, beginning of period ** | $ 17.06  | $ 28.88  |",
+            "| **Net Asset Value per Share, end of period ** | 9.38  | 29.65  |",
+            "| **Market Value per Share, end of period ** | $ 9.19  | $ 29.49  |",
+            "| **Total Return, at Net Asset Value** ** | (45.02)%  | 2.67%  |",
+            "| **Total Return, at Market Value** ** | (46.48)%  | 0.48%  |"
+        ]
+    },
+    "f10q1222_etfmanagers1_fileoutpart8": {
+        "predict": "|   | **BREAKWAVE DRY BULK SHIPPING ETF ** | **ETF MANAGERS GROUP COMMODITY TRUST I ** |\n| --- | --- | --- |\n| **Net investment income (loss) ** |   | -$954,646 |\n| **Net realized gain (loss) ** |   | -$1,117,138 |\n| **Change in net unrealized gain (loss) ** |   | -$16,869,110 |\n| **Net Increase (decrease) in Net Assets from operations ** |   | -$18,940,894 |<NEWLINE>",
+        "target": [
+            "|   | **BREAKWAVE DRY BULK SHIPPING ETF ** | **ETF MANAGERS GROUP COMMODITY TRUST I ** |",
+            "| --- | --- | --- |",
+            "| **Net investment income (loss) ** | (954,646)  | (954,646)  |",
+            "| **Net realized gain (loss) ** | (1,117,138)  | (1,117,138)  |",
+            "| **Change in net unrealized gain (loss) ** | (16,869,110)  | (16,869,110)  |",
+            "| **Net Increase (decrease) in Net Assets from operations ** | (18,940,894)  | (18,940,894)  |"
+        ]
+    },
+    "f10q1222_etfmanagers1_fileoutpart10": {
+        "predict": "|   | **BREAKWAVE DRY BULK SHIPPING ETF** | **ETF MANAGERS GROUP COMMODITY TRUST I** |\n| --- | --- | --- |\n| **Net investment gain (loss)** | -$1,749,765 |  |\n| **Net realized loss** | $18,463,560 |  |\n| **Change in net unrealized gain (loss)** | -$18,595,890 |  |\n| **Net Increase (Decrease) in Net Assets from operations** | -$1,882,095 |  |<NEWLINE>",
+        "target": [
+            "|   | **BREAKWAVE DRY BULK SHIPPING ETF ** | **ETF MANAGERS GROUP COMMODITY TRUST I ** |",
+            "| --- | --- | --- |",
+            "| **Net investment gain (loss) ** | (1,749,765)  | (1,749,765)  |",
+            "| **Net realized loss ** | 18,463,560  | 18,463,560  |",
+            "| **Change in net unrealized gain (loss) ** | (18,595,890)  | (18,595,890)  |",
+            "| **Net Increase (Decrease) in Net Assets from operations ** | (1,882,095)  | (1,882,095)  |"
+        ]
+    },
+    "lxrp_10q_fileoutpart23": {
+        "predict": "|   | **May 31 2020 $ ** | **May 31 2019 $ ** |\n| --- | --- | --- |\n| **Product sales ** | **119,691 ** | **7,284 ** |\n| **Licensing revenue ** | **130,509 ** | **90,000 ** |<NEWLINE>",
+        "target": [
+            "|   | **May 31 2020 $ ** | **May 31 2019 $ ** |",
+            "| --- | --- | --- |",
+            "| **Product sales ** | **119,709 ** | **7,284 ** |",
+            "| **Licensing revenue ** | 130,509  | 90,000  |"
+        ]
+    },
+    "lxrp_10q_fileoutpart37": {
+        "predict": "Output: \n|   | **May 31 2020 ** | **May 31 2019 ** |\n| --- | --- | --- |\n| **Cash flows (used in) provided by operating activities ** | -$1,981,314 | -$2,268,946 |\n| **Cash flows (used in) provided by investing activities ** | -$13,205 | -$736,079 |\n| **Cash flows (used in) provided by financing activities ** | $2,743,383 | $3,273,683 |<NEWLINE>",
+        "target": [
+            "|   | **May 31 2020 ** | **May 31 2019 ** |",
+            "| **Cash Flows ** | **$ ** | **$ ** |",
+            "| --- | --- | --- |",
+            "| **Cash flows (used in) provided by operating activities ** | (1,981,314)  | (2,268,946)  |",
+            "| **Cash flows (used in) provided by investing activities ** | (13,205)  | (736,079)  |",
+            "| **Cash flows (used in) provided by financing activities ** | 2,743,383  | 3,273,683  |"
+        ]
+    },
+    "form10q_03312019_fileoutpart2": {
+        "predict": "Output: \n|   | **Three Months Ended March 31, ** |   |<NEWLINE>|   | **2019 ** | **2018 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Revenues ** | $4,076 | $56,590 |<NEWLINE>| **Cost of revenues ** | $2,718 | $43,339 |<NEWLINE>| **Research and development expenses ** | $2,386 | $0 |<NEWLINE>| **Operating loss ** | $390,504 | $186,058 |<NEWLINE>| **Interest expense ** | $885 | $1,380 |<NEWLINE>| **Net loss ** |   |   |<NEWLINE>| **Net loss attributable to common shareholders ** | $391,389 | $192,430 |<NEWLINE>| **Basic and diluted net loss per average share available to common shareholders ** | $0.01 | $0.005 |",
+        "target": [
+            "|   | **Three Months Ended March 31, ** |   |",
+            "|   | **2019 ** | **2018 ** |",
+            "| --- | --- | --- |",
+            "| **Revenues ** | $ 4,076  | $ 56,590  |",
+            "| **Cost of revenues ** | (2,718)  | (43,339)  |",
+            "| **Research and development expenses ** | 2,386  | - |",
+            "| **Operating loss ** | (390,504)  | - |",
+            "| **Interest expense ** | (885)  | (1,380)  |",
+            "| **Net loss ** | (391,389)  | - |",
+            "| **Net loss attributable to common shareholders ** | $ (391,389)  | - |",
+            "| **Basic and diluted net loss per average share available to common shareholders ** | $ (0.01)  | $ (0.01)  |"
+        ]
+    },
+    "acbm_10q_fileoutpart6": {
+        "predict": "Output Content: |   | **Six Months ended June 30, ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>|   | **2021 ** | **2020 ** |<NEWLINE>| **Net income (loss) ** | - $854,181 | $17,417 |<NEWLINE>| **Imputed interest - related parties ** | $3,870 | $1,369 |<NEWLINE>| **Stock based compensation ** | $804,650 |   |<NEWLINE>| **Inventories ** | $448,000 | $59,440 |<NEWLINE>| **Purchase deposit for inventory ** | $12,000 |   |<NEWLINE>| **Accounts payable and accrued expenses ** | $14,832 | $22,762 |<NEWLINE>| **Deferred revenue ** | $18,506,950 | $17,464 |<NEWLINE>| **Net cash provided by (used in) operating activities ** | $424,390 | - $97,845 |<NEWLINE>| **Advances from related parties ** | $14,832 | $97,315 |<NEWLINE>| **Repayment to related parties ** | $241,851 | $0 |<NEWLINE>| **Net cash (used in) provided by ﬁnancing activities ** | - $227,019 | $97,315 |<NEWLINE>| **Cash at end of period ** | $215,494 |   |",
+        "target": [
+            "|   | **Six Months ended June 30, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** |",
+            "| **Net income (loss) ** | $ (854,181)  | $ 17,417  |",
+            "| **Imputed interest - related parties ** | 3,870  | 1,369  |",
+            "| **Stock based compensation ** | 804,650  | - |",
+            "| **Inventories ** | 490,000  | (59,440)  |",
+            "| **Purchase deposit for inventory ** | - | (12,000)  |",
+            "| **Accounts payable and accrued expenses ** | (12,662)  | (22,762)  |",
+            "| **Deferred revenue ** | - | (17,464)  |",
+            "| **Net cash provided by (used in) operating activities ** | 424,390  | (97,845)  |",
+            "| **Advances from related parties ** | 14,832  | 97,315  |",
+            "| **Repayment to related parties ** | (241,851)  | - |",
+            "| **Net cash (used in) provided by ﬁnancing activities ** | (227,019)  | 97,315  |",
+            "| **Cash at end of period ** | $ 215,494  | - |"
+        ]
+    },
+    "acbm_10q_fileoutpart3": {
+        "predict": "|   | **Three Months Ended June 30, ** |   | **Six Months ended June 30, ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |\n| **Revenues ** | $500,000 | $0 | $599,500 | $687,964 |\n| **Cost of revenues ** | $420,000 | $0 | $490,000 | $528,560 |\n| **Gross proﬁt ** | $80,000 | $0 | $109,500 | $159,404 |\n| **Selling, general and administrative ** | $162,925 | $62,771 | $318,086 | $140,618 |\n| **Research and development ** | $641,725 | $0 | $641,725 | $0 |\n| **Total operating expenses ** | $873,320 | $62,771 | $959,811 | $140,618 |\n| **Income (loss) from operations ** |  |  |  |  |\n| **Interest expense - related party ** | $1,367 | $928 | $3,870 | $1,369 |\n| **Total other expenses ** |  |  |  |  |\n| **Income (loss) before income tax credit ** |  |  |  |  |\n| **Net income (loss) ** | -$794,687 | -$63,699 | -$854,181 | $17,417 |\n| **Basic and diluted income (loss) per share of common stock ** | $(0.02) | $(0.00) | $(0.02) | $0.00 |",
+        "target": [
+            "|   | **Three Months Ended June 30, ** |   | **Six Months ended June 30, ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |",
+            "| **Revenues ** | $ 500,000  | - | $ 599,500  | $ 687,964  |",
+            "| **Cost of revenues ** | 420,000  | - | 490,000  | 528,560  |",
+            "| **Gross proﬁt ** | 80,000  | - | 109,500  | 159,404  |",
+            "| **Selling, general and administrative ** | - | 62,771  | - | 140,618  |",
+            "| **Research and development ** | 641,725  | - | 641,725  | - |",
+            "| **Total operating expenses ** | 873,320  | 62,771  | 959,811  | 140,618  |",
+            "| **Income (loss) from operations ** | - | (62,771)  | - | - |",
+            "| **Interest expense - related party ** | 1,367  | 928  | 3,870  | 1,369  |",
+            "| **Total other expenses ** | 1,367  | 928  | 3,870  | 1,369  |",
+            "| **Income (loss) before income tax credit ** | (794,687)  | (63,699)  | (854,181)  | 17,417  |",
+            "| **Net income (loss) ** | $ (794,687)  | $ (63,699)  | $ (854,181)  | $ 17,417  |",
+            "| **Basic and diluted income (loss) per share of common stock ** | $ (0.02)  | $ (0.00)  | $ (0.02)  | $ 0.00  |"
+        ]
+    },
+    "acbm_10q_fileoutpart11": {
+        "predict": "Output Content: |   | **Six months Ended June 30, ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>|   | **2021 ** | **2020 ** |<NEWLINE>| **Cash provided by (used in) operating activities ** | $424,390 | $97,845 |<NEWLINE>| **Cash used in (provided by) ﬁnancing activities ** | $227,019 | $97,315 |<NEWLINE>| **Cash at end of period ** | $215,494 |   |",
+        "target": [
+            "|   | **Six months Ended June 30, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** |",
+            "| **Cash provided by (used in) operating activities ** | $ 424,390  | $ (97,845)  |",
+            "| **Cash used in (provided by) ﬁnancing activities ** | (227,019)  | 97,315  |",
+            "| **Cash at end of period ** | 215,494  | - |"
+        ]
+    },
+    "irt-20220630_fileoutpart12": {
+        "predict": "Output: \n\n| **Investments in Unconsolidated Real Estate ** | **Location ** | **Units(1) (Unaudited) ** | **June 30, 2022 ($ '000) ** | **December 31, 2021 ($ '000) ** |\n| --- | --- | --- | --- | --- |\n| **Views of Music City / The Jackson ** | Nashville, TN | 96 | 25,440 |  |\n| **Virtuoso ** | Huntsville, AL | 400 |  |  |\n| **Lakeline Station ** | Austin, TX | 378 |  |  |\n| **Total ** |  | 1,588 | 54,178 | 24,999 |<NEWLINE> \n\nExplanation: The table is filled based on the guidelines. The Views of Music City / The Jackson is located in Nashville, TN with 96 units and was purchased for $25,440 (in thousands) on June 30, 2022. Virtuoso is located in Huntsville, AL with 400 units, but there's no financial data provided. Lakeline Station is located in Austin, TX with 378 units, but again no financial data provided. The total units of all investments is 1,588, with a total value of $54,178 (in thousands) on June 30, 2022 and $24,999 (in thousands) on December 31, 2021.",
+        "target": [
+            "| **Investments in Unconsolidated Real Estate ** | **Location ** | **Units(1) (Unaudited) ** | **June 30, 2022 ** | **December 31, 2021 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Views of Music City / The Jackson ** | Nashville, TN  | - | - | - |",
+            "| **Virtuoso ** | Huntsville, AL  | 400  | - | —  |",
+            "| **Lakeline Station ** | Austin, TX  | 378  | - | —  |",
+            "| **Total ** |   | 1,588  | $ 54,178  | $ 24,999  |"
+        ]
+    },
+    "f10qoct21_privacy_fileoutpart2": {
+        "predict": "Output Content: | **Affiliate revenue ** | $139  |<NEWLINE>| --- | --- |<NEWLINE>| **Total Income ** | $139  |<NEWLINE>| **General and administrative ** | $57,565  |<NEWLINE>| **Net Loss: ** | $57,426  |<NEWLINE>| **Net loss per share – basic and diluted ** | $0.29  |<NEWLINE>| **Weighted average shares outstanding – basic and diluted ** | 201,115,000  |",
+        "target": [
+            "| **Affiliate revenue ** | $ 139  |",
+            "| --- | --- |",
+            "| **Total Income ** | 139  |",
+            "| **General and administrative ** | 57,565  |",
+            "| **Net Loss: ** | (57,426)  |",
+            "| **Net loss per share – basic and diluted ** | (0)  |",
+            "| **Weighted average shares outstanding – basic and diluted ** | 201,115,000  |"
+        ]
+    },
+    "f10qoct21_privacy_fileoutpart4": {
+        "predict": "|   | **$ ** |\n| --- | --- |\n| **Net loss for the period ** | (57,426) |\n| **Net cash used in operating activities ** | (159,720) |\n| **Software ** |  |\n| **Net cash used in investing activities ** | (160,000) |\n| **Common stock ** | 22,300 |\n| **Net cash used in investing activities ** | (160,000) |\n| **Cash – beginning of period ** |  |\n| **Cash – end of period ** | 29,607 |",
+        "target": [
+            "|   | **$ ** |",
+            "| --- | --- |",
+            "| **Net loss for the period ** | (57,426)  |",
+            "| **Net cash used in operating activities ** | 159,720  |",
+            "| **Software ** | (160,000)  |",
+            "| **Net cash used in investing activities ** | (160,000)  |",
+            "| **Common stock ** | 22,300  |",
+            "| **Net cash used in investing activities ** | 22,300  |",
+            "| **Cash – beginning of period ** | 7,587  |",
+            "| **Cash – end of period ** | 29,607  |"
+        ]
+    },
+    "shengshielevator3_10q_fileoutpart5": {
+        "predict": "Output Content: |   | **Common Stock ** |   | **Accumulated Deﬁcit ** | **Total** |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>|   | **Shares ** | **Amount ** |   |   |<NEWLINE>| **Balance, January 1, 2021 ** |   |   |   |   |<NEWLINE>| **Net loss ** |   | $2,000  |   | $2,000 |<NEWLINE>| **Balance, March 31, 2021 ** | 603,970,000  |   | $8,989,269 | $8,991,269 |",
+        "target": [
+            "|   | **Common Stock ** |   | **Accumulated Deﬁcit ** | **Total** |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **Shares ** | **Amount ** |   |   |",
+            "| **Balance, January 1, 2021 ** | 603,970,000  | $ 603,970  | - | - |",
+            "| **Net loss ** | - | - | (2,000)  | (2,000)  |",
+            "| **Balance, March 31, 2021 ** | 603,970,000  | $ 603,970  | $ (8,989,269)  | - |"
+        ]
+    },
+    "form10-qa_fileoutpart3": {
+        "predict": "Output: \n\n|   | **For the Three Months Ended April 30, ** |   | **For the Nine Months Ended April 30, ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2023 ** | **2022 ** | **2023 ** | **2022 ** |\n| **Commission income ** | $769,150 | $693,591 | $2,478,230 | $1,478,189 |\n| **Commission expense ** | $213,305 | $230,235 | $736,628 | $636,692 |\n| **Commission expense – related party ** | $200,000 | $213,395 | $670,900 | $268,825 |\n| **Gross margin ** | $355,845 | $249,431 | $1,070,702 | $572,672 |\n| **Stock based compensation ** | $1,582,072 | - | $1,582,072 | - |\n| **Professional fees ** | $80,750 | $11,455 | $88,114 | $51,463 |\n| **Payroll expense ** | $63,009 | $65,507 | $179,487 | $181,005 |\n| **General and administrative ** | $144,083 | $125,456 | $327,522 | $404,263 |\n| **(Loss) income from operations ** | - | - | - | - |\n| **Interest expense ** | $5,217 | $0 | $5,217 | $0 |\n| **Impairment expense ** | - | - | - | $33,333 |\n| **Gain of forgiveness of debt ** | - | - | - | $82,335 |\n| **Total other (expense) income ** | - | - | - | - |\n| **Net (loss) income before income tax ** | - | - | - | - |\n| **Net (Loss) Income ** | $-1,519,286 | $47,013 | $-1,111,710 | $15,057 |<NEWLINE>",
+        "target": [
+            "|   | **For the Three Months Ended April 30, ** |   | **For the Nine Months Ended April 30, ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2023 ** | **2022 ** | **2023 ** | **2022 ** |",
+            "| **Commission income ** | $ 769,150  | $ 693,591  | $ 2,478,230  | $ 1,478,189  |",
+            "| **Commission expense ** | 213,305  | 230,235  | 736,628  | 636,692  |",
+            "| **Commission expense – related party ** | 200,000  | 213,925  | 670,900  | 268,825  |",
+            "| **Gross margin ** | 355,845  | 249,431  | 1,070,702  | 572,672  |",
+            "| **Stock based compensation ** | 1,582,072  | - | 1,582,072  | - |",
+            "| **Professional fees ** | 80,750  | 11,455  | 88,114  | 51,463  |",
+            "| **Payroll expense ** | 63,009  | 65,507  | 179,487  | 181,005  |",
+            "| **General and administrative ** | 144,083  | 125,456  | 327,522  | 404,263  |",
+            "| **(Loss) income from operations ** | - | 47,013  | - | - |",
+            "| **Interest expense ** | (5,217)  | - | (5,217)  | - |",
+            "| **Impairment expense ** | - | - | - | (33,333)  |",
+            "| **Gain of forgiveness of debt ** | - | - | - | 82,335  |",
+            "| **Total other (expense) income ** | (5,217)  | - | (5,217)  | - |",
+            "| **Net (loss) income before income tax ** | (1,519,286)  | 47,013  | (1,111,710)  | (15,057)  |",
+            "| **Net (Loss) Income ** | $ (1,519,286)  | $ 47,013  | $ (1,111,710)  | $ (15,057)  |"
+        ]
+    },
+    "form10-qa_fileoutpart5": {
+        "predict": "|   | **For the Nine Months Ended April 30, ** |   |\n| --- | --- | --- |\n|   | **2023 ** | **2022 ** |\n| **Net loss ** | $1,111,710 | $15,057 |\n| **Impairment expense ** |  | $33,333 |\n| **Gain of forgiveness of debt ** |  | $82,335 |\n| **Stock based compensation ** | $1,582,072 |  |\n| **Depreciation expense ** | $32,379 | $25,903 |\n| **Net cash (used) provided by operating activities ** | -$140,538 | $29,279 |\n| **Purchase of property and equipment ** |  | $53,918 |\n| **Net cash used by investing activities ** | $0 | $53,918 |\n| **Loan payable – related party ** | $48,060 |  |\n| **Contributions to capital by controlling shareholder ** | $48,060 | $27,639 |\n| **Net cash provided by financing activities ** |  |  |",
+        "target": [
+            "|   | **For the Nine Months Ended April 30, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2023 ** | **2022 ** |",
+            "| **Net loss ** | $ (1,111,710)  | $ (15,057)  |",
+            "| **Impairment expense ** | - | 33,333  |",
+            "| **Gain of forgiveness of debt ** | - | (82,335)  |",
+            "| **Stock based compensation ** | 1,582,072  | - |",
+            "| **Depreciation expense ** | 32,379  | 25,903  |",
+            "| **Net cash (used) provided by operating activities ** | (140,538)  | 29,279  |",
+            "| **Purchase of property and equipment ** | - | (53,918)  |",
+            "| **Net cash used by investing activities ** | - | (53,918)  |",
+            "| **Loan payable – related party ** | 48,060  | - |",
+            "| **Contributions to capital by controlling shareholder ** | - | 27,639  |",
+            "| **Net cash provided by financing activities ** | 48,060  | 27,639  |"
+        ]
+    },
+    "form10-qa_fileoutpart9": {
+        "predict": "Output Content: \n|   | **Number of Warrants** | **Weighted Average Exercise Price** |\n| --- | --- | --- |\n| **Issued** | 5,000,000 | $0.50 |\n| **Outstanding, April 30, 2023** | 5,000,000 | $0.50 |<NEWLINE>",
+        "target": [
+            "|   | **Number of Warrants ** | **Weighted Average Exercise Price ** |",
+            "| --- | --- | --- |",
+            "| **Issued ** | 5,000,000  | $ 0.50  |",
+            "| **Outstanding, April 30, 2023 ** | 5,000,000  | $ 0.50  |"
+        ]
+    },
+    "form10-qa_fileoutpart6": {
+        "predict": "Output Content: |   | **Nine months Ended September 30, 2021 ** | **For the Period from August 21, 2020 (Inception) Through September 30, 2020 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Net loss ** | $1,601,809 | $1,000 |<NEWLINE>| **Interest earned on investments held in Trust Account ** | $5,627 |   |<NEWLINE>| **Net cash used in operating activities ** | $893,655 |   |<NEWLINE>| **Cash – End of period ** | $8,413 |   |",
+        "target": [
+            "|   | **Nine months Ended September 30, 2021 ** | **For the Period from August 21, 2020 (Inception) Through September 30, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Net loss ** | $ (1,601,809)  | $ (1,000)  |",
+            "| **Interest earned on investments held in Trust Account ** | (5,627)  | - |",
+            "| **Net cash used in operating activities ** | (893,655)  | - |",
+            "| **Cash – End of period ** | $ 8,413  | - |"
+        ]
+    },
+    "kss-20221029_fileoutpart23": {
+        "predict": "|   | **Change ** | **Change ** |\n| --- | --- | --- |\n| **SG&A ** | Increased by $119 million, 3.1% to $3.9 billion (YTD 2022) | Decreased by $46 million, 3.3% to $1.3 billion (Q3 2022) |\n| **As a percent of total revenue ** | Deleveraged by 306 basis points | Deleveraged by 120 basis points |",
+        "target": [
+            "|   | **Change ** | **Change ** |",
+            "| --- | --- | --- |",
+            "| **SG&A ** | $(46)  | $119  |",
+            "| **As a percent of total revenue ** | 120 bps  | 306 bps  |"
+        ]
+    },
+    "kss-20221029_fileoutpart26": {
+        "predict": "Output Content: | **(Dollars in Millions) ** | **Three Months Ended ** |   | **Nine Months Ended ** |   |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>|   | **October 29, 2022 ** | **October 30, 2021 ** | **October 29, 2022 ** | **October 30, 2021 ** |<NEWLINE>| **Effective tax rate ** | 18.3% | 24.3% | 21.1% | 23.4% |",
+        "target": [
+            "| **(Dollars in Millions) ** | **Three Months Ended ** |   | **Nine Months Ended ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **October 29, 2022 ** | **October 30, 2021 ** | **October 29, 2022 ** | **October 30, 2021 ** |",
+            "| **Effective tax rate ** | 18.3%  | 24.3%  | 21.1%  | 23.4%  |"
+        ]
+    },
+    "kss-20221029_fileoutpart29": {
+        "predict": "Output Content: |   | **Nine Months Ended ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>| **(Dollars in Millions) ** | **October 29, 2022 ** | **October 30, 2021 ** |<NEWLINE>| **Operating activities ** | -$425 | $1,800 |<NEWLINE>| **Investing activities ** | -$702 | -$391 |<NEWLINE>| **Financing activities ** | -$266 | -$1,800 |",
+        "target": [
+            "|   | **Nine Months Ended ** |   |",
+            "| --- | --- | --- |",
+            "| **(Dollars in Millions) ** | **October 29, 2022 ** | **October 30, 2021 ** |",
+            "| **Operating activities ** | $(425)  | - |",
+            "| **Investing activities ** | (702)  | (391)  |",
+            "| **Financing activities ** | (266)  | - |"
+        ]
+    },
+    "kss-20221029_fileoutpart4": {
+        "predict": "Output Content: |   | **Nine Months Ended ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>| **(Dollars in Millions) ** | **October 29, 2022 ** | **October 30, 2021 ** |<NEWLINE>| **Loss on extinguishment of debt ** | $201 | $201 |<NEWLINE>| **Net cash (used in) provided by operating activities ** | -$425 | $1,800 |<NEWLINE>| **Net cash used in investing activities ** | -$702 | -$391 |<NEWLINE>| **Net borrowings under revolving credit facility ** | $668 |   |<NEWLINE>| **Treasury stock purchases ** | -$658 | -$807 |<NEWLINE>| **Dividends paid ** | -$184 | -$114 |<NEWLINE>| **Premium paid on redemption of debt ** | -$192 |   |<NEWLINE>| **Net cash used in financing activities ** | -$266 | -$1,800 |<NEWLINE>| **Cash and cash equivalents at end of period ** | $194 | $1,900 |",
+        "target": [
+            "|   | **Nine Months Ended ** |   |",
+            "| --- | --- | --- |",
+            "| **(Dollars in Millions) ** | **October 29, 2022 ** | **October 30, 2021 ** |",
+            "| **Loss on extinguishment of debt ** | - | 201  |",
+            "| **Net cash (used in) provided by operating activities ** | (425)  | - |",
+            "| **Net cash used in investing activities ** | (702)  | (391)  |",
+            "| **Net borrowings under revolving credit facility ** | 668  | - |",
+            "| **Treasury stock purchases ** | (658)  | (807)  |",
+            "| **Dividends paid ** | (184)  | (114)  |",
+            "| **Premium paid on redemption of debt ** | - | (192)  |",
+            "| **Net cash used in financing activities ** | (266)  | - |",
+            "| **Cash and cash equivalents at end of period ** | $194  | - |"
+        ]
+    },
+    "kss-20221029_fileoutpart22": {
+        "predict": "Output Content: \n| **(Dollars in Millions) ** | **Three Months Ended ** |   | **Nine Months Ended ** |   |\n| --- | --- | --- | --- | --- |\n|   | **October 29, 2022 ** | **Change ** | **October 29, 2022 ** | **Change ** |\n| **Gross margin as a percent of net sales ** | 37.3% | -263 basis points | 38.4% | -215 basis points |<NEWLINE>",
+        "target": [
+            "| **(Dollars in Millions) ** | **Three Months Ended ** |   | **Nine Months Ended ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **October 29, 2022 ** | **Change ** | **October 29, 2022 ** | **Change ** |",
+            "| **Gross margin as a percent of net sales ** | 37.3%  | (263) bps  | 38.4%  | (215) bps  |"
+        ]
+    },
+    "msgentertainmentcorp10_fileoutpart50": {
+        "predict": "Output: \n\n|   | **Three Months Ended March 31, ** |   | **Change ** |\n| --- | --- | --- | --- |\n|   | **2020 ** | **2019 ** | **Amount ** |\n| **Operating loss ** | $145,541 | $18,619 | $126,922 |\n| **Share-based compensation ** | $8,836 | $8,726 | $110 |\n| **Depreciation and amortization (a) ** | $26,196 | $26,768 | -$572 |\n| **Impairment of intangibles, long-lived assets and goodwill (b) ** | $102,211 | $0 | $102,211 |\n| **Adjusted operating income (loss) ** | -$7,230 | $17,944 | -$25,174 |<NEWLINE>",
+        "target": [
+            "|   | **Three Months Ended March 31, ** |   | **Change ** |",
+            "| --- | --- | --- | --- |",
+            "|   | **2020 ** | **2019 ** | **Amount ** |",
+            "| **Operating loss ** | $ (145,541)  | - | $ (126,922)  |",
+            "| **Share-based compensation ** | 8,836  | 8,726  |   |",
+            "| **Depreciation and amortization (a) ** | 26,196  | - |   |",
+            "| **Impairment of intangibles, long-lived assets and goodwill (b) ** | 102,211  | - |   |",
+            "| **Adjusted operating income (loss) ** | $ (7,230)  | $ 17,944  | - |"
+        ]
+    },
+    "msgentertainmentcorp10_fileoutpart11": {
+        "predict": "Output: \n\n|   | **Madison Square Garden Sports Corp. Investment ** | **Total Company Divisional Equity ** | **Non -redeemable Noncontrolling Interests ** | **Total Divisional Equity ** | **Redeemable Noncontrolling Interests ** |\n| --- | --- | --- | --- | --- | --- |\n| **Net income (loss) ** |   |   | $38 |   | $23,851 |\n| **Comprehensive income (loss) ** |   |   |   |   |   |\n| **Noncontrolling interest non-cash acquisition ** | $37,715 |   |   |   |   |\n| **Redeemable noncontrolling interest adjustment to redemption fair value ** |   |   |   |   | $16,939 |\n| **Balance as of March 31, 2020 ** |   |   |   |   | $23,000 |<NEWLINE>",
+        "target": [
+            "|   | **Madison Square Garden Sports Corp. Investment ** | **Total Company Divisional Equity ** | **Non -redeemable Noncontrolling Interests ** | **Total Divisional Equity ** | **Redeemable Noncontrolling Interests ** |",
+            "| --- | --- | --- | --- | --- | --- |",
+            "| **Net income (loss) ** | - | - | 38  | - | (23,851)  |",
+            "| **Comprehensive income (loss) ** | - | - | 38  | - | (23,851)  |",
+            "| **Noncontrolling interest non-cash acquisition ** | 37,715  | 37,715  | - | 37,715  | (37,715)  |",
+            "| **Redeemable noncontrolling interest adjustment to redemption fair value ** | (16,939)  | (16,939)  | - | (16,939)  | 16,939  |",
+            "| **Balance as of March 31, 2020 ** | - | - | - | - | $ 23,000  |"
+        ]
+    },
+    "msgentertainmentcorp10_fileoutpart5": {
+        "predict": "Output Content: |   | **Three Months Ended March 31, ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>|   | **2020 ** | **2019 ** |<NEWLINE>| **Revenues (a) ** |   | $231,189  |<NEWLINE>| **Direct operating expenses (b) ** |   | $450,901  |<NEWLINE>| **Selling, general and administrative expenses (c) ** |   | $536,376  |<NEWLINE>| **Impairment for intangibles, long-lived assets, and goodwill ** |   |   |<NEWLINE>| **Operating income (loss) ** | $4,515,091  | -$2,413,318  |<NEWLINE>| **Net income (loss) ** | $4,515,091  | -$2,413,318  |<NEWLINE>| **Less: Net income (loss) attributable to nonredeemable noncontrolling interests ** |   |   |<NEWLINE>| **Net income (loss) attributable to the Company ** |   |   |<NEWLINE>| **Basic and diluted earnings (loss) per common share attributable to the Company (f) ** |   |   |\n",
+        "target": [
+            "|   | **Three Months Ended March 31, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2020 ** | **2019 ** |",
+            "| **Revenues (a) ** | $ 199,861  | $ 250,018  |",
+            "| **Direct operating expenses (b) ** | - | 158,710  |",
+            "| **Selling, general and administrative expenses (c) ** | 84,186  | - |",
+            "| **Impairment for intangibles, long-lived assets, and goodwill ** | 102,211  | —  |",
+            "| **Operating income (loss) ** | (145,541)  | (18,619)  |",
+            "| **Net income (loss) ** | (150,838)  | (12,616)  |",
+            "| **Less: Net income (loss) attributable to nonredeemable noncontrolling interests ** | 195  | - |",
+            "| **Net income (loss) attributable to the Company ** | $ (128,586)  | - |",
+            "| **Basic and diluted earnings (loss) per common share attributable to the Company (f) ** | $ (5.36)  | - |"
+        ]
+    },
+    "msgentertainmentcorp10_fileoutpart14": {
+        "predict": "Output Content: | **Property and equipment, net of accumulated depreciation and amortization ** | $104,781 (Net of accumulated depreciation and amortization of $47,609) |<NEWLINE>| --- | --- |<NEWLINE>| **Indefinite-lived intangible assets ** | $540 |<NEWLINE>| **Goodwill ** | $2,864 |",
+        "target": [
+            "| **Property and equipment, net of accumulated depreciation and amortization ** | 104,781  |",
+            "| --- | --- |",
+            "| **Indefinite-lived intangible assets ** | 540  |",
+            "| **Goodwill ** | 2,864  |"
+        ]
+    },
+    "msgentertainmentcorp10_fileoutpart9": {
+        "predict": "|   | **Madison Square Garden Sports Corp. Investment ** | **Total Company Divisional Equity ** | **Non -redeemable Noncontrolling Interests ** | **Total Divisional Equity ** | **Redeemable Noncontrolling Interests ** |\n| --- | --- | --- | --- | --- | --- |\n| **Net income (loss) ** |   |   | $195 ($57 of PPA Expenses) |   | $22,447 (including $22,997 of Impairment charges and $22,257 of PPA Expenses) |\n| **Comprehensive income (loss) ** |   |   |   |   |   |\n| **Noncontrolling interests non-cash acquisition ** | $37,715 (15% of Tao Group Hospitality) |   |   |   | $37,715 |\n| **Redeemable noncontrolling interest adjustment to redemption fair value ** |   |   |   |   | $16,939 |\n| **Balance as of March 31, 2020 ** |   |   |   |   | $23,000 |<NEWLINE>",
+        "target": [
+            "|   | **Madison Square Garden Sports Corp. Investment ** | **Total Company Divisional Equity ** | **Non -redeemable Noncontrolling Interests ** | **Total Divisional Equity ** | **Redeemable Noncontrolling Interests ** |",
+            "| --- | --- | --- | --- | --- | --- |",
+            "| **Net income (loss) ** | - | - | 195  | - | (22,447)  |",
+            "| **Comprehensive income (loss) ** | - | - | 195  | - | (22,447)  |",
+            "| **Noncontrolling interests non-cash acquisition ** | 37,715  | 37,715  | - | 37,715  | (37,715)  |",
+            "| **Redeemable noncontrolling interest adjustment to redemption fair value ** | (16,939)  | (16,939)  | - | (16,939)  | 16,939  |",
+            "| **Balance as of March 31, 2020 ** | - | - | - | - | $ 23,000  |"
+        ]
+    },
+    "msgentertainmentcorp10_fileoutpart47": {
+        "predict": "|   | **Three Months Ended March 31, ** |   | **Change (a) ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2020 ** | **2019 ** | **Amount ** | **Percentage ** |\n| **Revenues ** | $199,861 |  | -$50,157  | -20% |\n| **Direct operating expenses ** | $132,809 |  | -$25,901 | -16% |\n| **Selling, general and administrative expenses ** | $84,186 |  | +$1,027 | +1% |\n| **Depreciation and amortization ** | $26,196 |  | -$572 | -2% |\n| **Impairment of intangibles, long-lived assets and goodwill ** | $102,211 |  |  |   |\n| **Operating loss ** | $145,541 |  | +$126,922 |  |\n| **Loss in equity method investments ** | $1,096 |  | -$1,785 | -62% |\n| **Interest income, net ** | $3,054 |  | -$1,686 | -36% |\n| **Miscellaneous income (expense), net ** | -$17,381 |  |  |   |\n| **Income tax benefit (expense) ** | $10,126 |  |  |   |\n| **Less: Net loss attributable to redeemable noncontrolling interests ** | $22,447 |  |  |   |\n| **Less: Net income (loss) attributable to nonredeemable noncontrolling interests ** | $195 |  |  |   |\n\n|   | **Nine Months Ended March 31, ** |   | **Change (a) ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2020 ** | **2019 ** | **Amount ** | **Percentage ** |\n| **Revenues ** | $767,038 |  | -$65,346 | -8% |\n| **Direct operating expenses ** | $472,582 |  | -$34,667 | -7% |\n| **Selling, general and administrative expenses ** | $257,970 |  | +$26,932 | +12% |\n| **Depreciation and amortization ** | $80,271 |  | -$1,335 | -2% |\n| **Impairment of intangibles, long-lived assets and goodwill ** | $102,211 |  |  |   |\n| **Operating income (loss) ** | -$145,996 |  |  |   |\n| **Earnings (loss) in equity method investments ** | -$3,739 |  |  |   |\n| **Interest income, net ** | $15,388 |  | +$3,444 | +29% |\n| **Miscellaneous expense, net ** | -$2,893 |  | -$1,225 | -30% |\n| **Income tax benefit (expense) ** | $8,686 |  |  |   |\n| **Less: Net loss attributable to redeemable noncontrolling interests ** | $23,851 |  |  |   |\n| **Less: Net income (loss) attributable to nonredeemable noncontrolling interests ** | $38 |  |  |   |",
+        "target": [
+            "|   | **Three Months Ended March 31, ** |   | **Change (a) ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2020 ** | **2019 ** | **Amount ** | **Percentage ** |",
+            "| **Revenues ** | 199,861  | - | (50,157)  | (20)%  |",
+            "| **Direct operating expenses ** | 132,809  | - | (25,901)  | (16)%  |",
+            "| **Selling, general and administrative expenses ** | 84,186  | - | 1,027  | 1%  |",
+            "| **Depreciation and amortization ** | 26,196  | - | (572)  | (2)%  |",
+            "| **Impairment of intangibles, long-lived assets and goodwill ** | 102,211  | - | 102,211  | - |",
+            "| **Operating loss ** | (145,541)  | - | (126,922)  | - |",
+            "| **Loss in equity method investments ** | (1,096)  | - | 1,785  | 62 %  |",
+            "| **Interest income, net ** | 3,054  | - | (1,686)  | (36)%  |",
+            "| **Miscellaneous income (expense), net ** | (17,381)  | 4,613  | - | - |",
+            "| **Income tax benefit (expense) ** | 10,126  | (469)  | - | - |",
+            "| **Less: Net loss attributable to redeemable noncontrolling interests ** | (22,447)  | (7)  | - | - |",
+            "| **Less: Net income (loss) attributable to nonredeemable noncontrolling interests ** | 195  | (680)  | - | - |",
+            "| **Revenues ** | $ 767,038  | - | $ (65,346)  | (8)%  |",
+            "| **Direct operating expenses ** | 472,582  | - | (34,667)  | (7)%  |",
+            "| **Selling, general and administrative expenses ** | 257,970  | - | 26,932  | 12 %  |",
+            "| **Depreciation and amortization ** | 80,271  | - | (1,335)  | (2)%  |",
+            "| **Impairment of intangibles, long-lived assets and goodwill ** | 102,211  | - | 102,211  | - |",
+            "| **Operating income (loss) ** | (145,996)  | 12,491  | - | - |",
+            "| **Earnings (loss) in equity method investments ** | (3,739)  | 17,131  | - | - |",
+            "| **Interest income, net ** | 15,388  | - | 3,444  | 29 %  |",
+            "| **Miscellaneous expense, net ** | (2,893)  | - | 1,225  | 30 %  |",
+            "| **Income tax benefit (expense) ** | 8,686  | (1,253)  | - | - |",
+            "| **Less: Net loss attributable to redeemable noncontrolling interests ** | (23,851)  | (3,662)  | - | - |",
+            "| **Less: Net income (loss) attributable to nonredeemable noncontrolling interests ** | 38  | (3,121)  | - | - |"
+        ]
+    },
+    "msgentertainmentcorp10_fileoutpart51": {
+        "predict": "|   | **Nine Months Ended March 31, ** |   | **Change ** |   |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>|   | **2020 ** | **2019 ** | **Amount ** | **Percentage ** |<NEWLINE>| **Operating income (loss) ** | $145,996 | $12,491 | $-133,505 | -1,067% |<NEWLINE>| **Share-based compensation ** | $29,294 | $27,929 | $1,365 | 4.8% |<NEWLINE>| **Depreciation and amortization (a) ** | $80,271 | $81,606 | $-1,335 | -2% |<NEWLINE>| **Impairment of intangibles, long-lived assets and goodwill (b) ** | $102,211 | $0 | $102,211 | 100% |<NEWLINE>| **Adjusted operating income ** | $70,244 | $125,743 | $-55,499 | -44% |",
+        "target": [
+            "|   | **Nine Months Ended March 31, ** |   | **Change ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2020 ** | **2019 ** | **Amount ** | **Percentage ** |",
+            "| **Operating income (loss) ** | $ (145,996)  | $ 12,491  | - | - |",
+            "| **Share-based compensation ** | 29,294  | 27,929  |   |   |",
+            "| **Depreciation and amortization (a) ** | 80,271  | - |   |   |",
+            "| **Impairment of intangibles, long-lived assets and goodwill (b) ** | 102,211  | - |   |   |",
+            "| **Adjusted operating income ** | $ 70,244  | - | $ (55,499)  | (44)%  |"
+        ]
+    },
+    "rivn-20210930_fileoutpart19": {
+        "predict": "|   | **Q3 2021 ** | **9M 2021 ** |\n| --- | --- | --- |\n| **Revenues ** |  $1 million |  $1 million |\n| **Cost of revenues ** |  $83 million |  $83 million |\n| **Gross profit ** |  $(82) million |  $(82) million |\n| **Interest expense ** |   |   |",
+        "target": [
+            "|   | **2021 ** | **2021 ** |",
+            "| --- | --- | --- |",
+            "| **Revenues ** | $ 1  | $ 1  |",
+            "| **Cost of revenues ** | 83  | 83  |",
+            "| **Gross profit ** | (82)  | (82)  |",
+            "| **Interest expense ** | (1)  | (7)  |"
+        ]
+    },
+    "rivn-20210930_fileoutpart4": {
+        "predict": "Output Content: |   | **Q3 2021** | **Q1-Q3 2021** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Revenues ** | $1 million  | $1 million |<NEWLINE>| **Cost of revenues ** | $83 million | $83 million |<NEWLINE>| **Gross profit ** | -$(82) million | -$(82) million |<NEWLINE>| **Interest expense ** | $49 million | $49 million |",
+        "target": [
+            "|   | **2021 ** | **2021 ** |",
+            "| --- | --- | --- |",
+            "| **Revenues ** | $ 1  | $ 1  |",
+            "| **Cost of revenues ** | 83  | 83  |",
+            "| **Gross profit ** | (82)  | (82)  |",
+            "| **Interest expense ** | - | (7)  |"
+        ]
+    },
+    "rivn-20210930_fileoutpart10": {
+        "predict": "|   | **2021 Convertible Notes ** |\n| --- | --- |\n| **Loss on issuance ** | $549 million |\n| **Issue-date estimated fair value ** | $3,049 million |\n| **Gain on change in fair value ** | $91 million |\n| **Fair value as of September 30, 2021 ** | $2,958 million |<NEWLINE>",
+        "target": [
+            "|   | **2021 Convertible Notes ** |",
+            "| --- | --- |",
+            "| **Loss on issuance ** | 549  |",
+            "| **Issue-date estimated fair value ** | 3,049  |",
+            "| **Gain on change in fair value ** | (91)  |",
+            "| **Fair value as of September 30, 2021 ** | $ 2,958  |"
+        ]
+    },
+    "tgt-20211030_fileoutpart23": {
+        "predict": "Output Content: | **RedCard Penetration ** |   | **Nine Months Ended ** |<NEWLINE>| --- | --- | --- |<NEWLINE>|   | **October 31, 2020 ** | **October 30, 2021 ** |<NEWLINE>| **Total RedCard Penetration ** |   |   |<NEWLINE>| **SG&A expense rate** | 20.5% | 18.9% |<NEWLINE>| **Effective tax rates** | 21.5% | 21.3% |<NEWLINE>| **Cash flow provided by operating activities (in billions)** | $7.0 | $5.6 |",
+        "target": [
+            "| **RedCard Penetration ** |   | **Nine Months Ended ** |",
+            "| --- | --- | --- |",
+            "|   | **October 31, 2020 ** | **October 30, 2021 ** |",
+            "| **Total RedCard Penetration ** | 21.5 %  | 20.5 %  |"
+        ]
+    },
+    "tgt-20211030_fileoutpart17": {
+        "predict": "Output: \n| **Rate Analysis ** | **Three Months Ended ** |   | **Nine Months Ended ** |   |\n| --- | --- | --- | --- | --- |\n|   | **October 30, 2021 ** | **October 31, 2020 ** | **October 30, 2021 ** | **October 31, 2020 ** |\n| **Gross margin rate ** | 28.0% | 30.6% | 29.5% | 29.1% |\n| **SG&A expense rate ** | 18.9% | 20.5% | 19.0% | 20.2% |<NEWLINE>",
+        "target": [
+            "| **Rate Analysis ** | **Three Months Ended ** |   | **Nine Months Ended ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **October 30, 2021 ** | **October 31, 2020 ** | **October 30, 2021 ** | **October 31, 2020 ** |",
+            "| **Gross margin rate ** | 28.0 %  | 30.6 %  | 29.5 %  | 29.1 %  |",
+            "| **SG&A expense rate ** | 18.9  | 20.5  | 19.0  | 20.2  |"
+        ]
+    },
+    "tdy-20210704_fileoutpart40": {
+        "predict": "Output Content: \n\n| **(dollars in millions) ** | **Second Quarter ** |   | **Six Months ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |\n| **Selling, general and administrative expenses ** | $5.9 |   | $12.5 | $14.4 |\n| **Cost of sales as a % of net sales ** | 82.8% | 81.3% | 81.1% | 81.3% |\n| **Selling, general and administrative expenses as a % of net sales ** | 6.0% | 7.8% | 6.1% | 7.4% |<NEWLINE>",
+        "target": [
+            "| **(dollars in millions) ** | **Second Quarter ** |   | **Six Months ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |",
+            "| **Selling, general and administrative expenses ** | $ 5.9  | $ 7.8  | $ 12.5  | $ 14.4  |",
+            "| **Cost of sales as a % of net sales ** | 82.8 %  | 81.3 %  | 81.1 %  | 81.3 %  |",
+            "| **Selling, general and administrative expenses as a % of net sales ** | 6.0 %  | 7.8 %  | 6.1 %  | 7.4 %  |"
+        ]
+    },
+    "tdy-20210704_fileoutpart27": {
+        "predict": "|   | **Second Quarter ** |   | **Six Months ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |\n| **Service cost — benefits earned during the period (in millions) ** | $2.7 | $2.6 | $5.4 | $5.2 |\n| **Pension non-service income ** | $2.8 | $3.2 |   |   |<NEWLINE>",
+        "target": [
+            "|   | **Second Quarter ** |   | **Six Months ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |",
+            "| **Service cost — benefits earned during the period (in millions) ** | $ 2.7  | $ 2.6  | $ 5.4  | $ 5.2  |",
+            "| **Pension non-service income ** | - | $ (3.2)  | - | - |"
+        ]
+    },
+    "tdy-20210704_fileoutpart6": {
+        "predict": "Output Content: |   | **Six Months ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>|   | **2021 ** | **2020 ** |<NEWLINE>| **Net cash provided by operating activities ** | $336.2 million | $232.2 million |<NEWLINE>| **Purchases of property, plant and equipment ** | $38.4 million | $36.8 million |<NEWLINE>| **Net cash used in investing activities ** | $3,761.8 million | $65.7 million |<NEWLINE>| **Proceeds from exercise of stock options ** | $15.9 million | $28.2 million |<NEWLINE>| **Net cash provided by financing activities ** | $3,451.4 million | $27.8 million |",
+        "target": [
+            "|   | **Six Months ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** |",
+            "| **Net cash provided by operating activities ** | 336.2  | 232.2  |",
+            "| **Purchases of property, plant and equipment ** | (38.4)  | (36.8)  |",
+            "| **Net cash used in investing activities ** | (3,761.8)  | (65.7)  |",
+            "| **Proceeds from exercise of stock options ** | 15.9  | 28.2  |",
+            "| **Net cash provided by financing activities ** | 3,451.4  | 27.8  |"
+        ]
+    },
+    "tdy-20210704_fileoutpart35": {
+        "predict": "Output: \n| **(dollars in millions) ** | **Second Quarter 2021** | **Second Quarter 2020** | **% Change** | **Six Months 2021** | **Six Months 2020** | **% Change** |\n| --- | --- | --- | --- | --- | --- | --- |\n| **Digital Imaging (b) ** |   |   | 143.9% |   |   | 74.0% |\n| **Instrumentation ** |   |   | 10.6% |   |   | 5.4% |\n| **Aerospace and Defense Electronics ** |   |   | 6.5% |   |   | 1.4% |\n| **Engineered Systems ** |   |   | -1.5% |   |   | 3.4% |\n| **Total net sales ** |   |   | 50.8% |   |   | 26.1% |\n| **Digital Imaging (b) ** |   |   |   |   |   |   |\n| **Instrumentation ** |   |   |   |   |   |   |\n| **Aerospace and Defense Electronics ** |   |   | 62.3% |   |   |   |\n| **Engineered Systems ** |   |   |   |   |   |   |\n| **Corporate expense (c) ** | $84.2M | $13.8M |   | $103.6M | $29.2M |   |\n| **Total operating income ** |   |   |   |   |   | 24.9% |<NEWLINE>",
+        "target": [
+            "| **(dollars in millions) ** | **Second Quarter ** |   | **% Change ** | **Six Months ** |   | **% Change** |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** |   | **2021 ** | **2020 ** |   |",
+            "| **Digital Imaging (b) ** | - | - | 143.9 %  | - | - | 74.0 %  |",
+            "| **Instrumentation ** | - | - | 10.6 %  | - | - | 5.4 %  |",
+            "| **Aerospace and Defense Electronics ** | - | - | 6.5 %  | - | - | 1.4 %  |",
+            "| **Engineered Systems ** | - | - | (1.5)%  | - | - | 3.4 %  |",
+            "| **Total net sales ** | - | - | 50.8 %  | - | - | 26.1 %  |",
+            "| **Digital Imaging (b) ** | - | - | 80.8 %  | - | - | 50.8 %  |",
+            "| **Instrumentation ** | - | - | 33.2 %  | - | - | 24.9 %  |",
+            "| **Aerospace and Defense Electronics ** | - | - | 62.3 %  | - | - | 83.5 %  |",
+            "| **Engineered Systems ** | - | 10.8  | 1.9 %  | - | - | 16.7 %  |",
+            "| **Corporate expense (c) ** | (84.2)  | (13.8)  | - | (103.6)  | (29.2)  | - |",
+            "| **Total operating income ** | - | - | (4.9)%  | - | - | 12.1 %  |"
+        ]
+    },
+    "tdy-20210704_fileoutpart39": {
+        "predict": "Output Content: \n\n| **(dollars in millions) ** | **Second Quarter ** |   | **Six Months ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2021 ** | **2020 ** | **2021 ** | **2019 ** |\n| **Selling, general and administrative expenses ** | $23.9 | $29.0 | $47.0 | $60.9 |\n| **Acquired intangible asset amortization ** |   |   |   |   |\n| **Operating income ** | Decreased by 30.9% |   |   |   |\n| **Cost of sales as a % of net sales ** | 56.7% | 57.1% | 65.7% | 69.2% |\n| **Selling, general and administrative expenses as a % of net sales ** | 15.7% | 20.3% | 15.5% | 20.4% |<NEWLINE>",
+        "target": [
+            "| **(dollars in millions) ** | **Second Quarter ** |   | **Six Months ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** | **2021 ** | **2019 ** |",
+            "| **Selling, general and administrative expenses ** | $ 23.9  | $ 29.0  | $ 47.0  | $ 60.9  |",
+            "| **Acquired intangible asset amortization ** | $ 0.2  | $ 0.2  | $ 0.4  | $ 0.4  |",
+            "| **Operating income ** | - | - | $ 56.7  | $ 30.9  |",
+            "| **Cost of sales as a % of net sales ** | 65.6 %  | 67.4 %  | 65.7 %  | 69.2 %  |",
+            "| **Selling, general and administrative expenses as a % of net sales ** | 15.7 %  | 20.3 %  | 15.5 %  | 20.4 %  |"
+        ]
+    },
+    "tdy-20210704_fileoutpart38": {
+        "predict": "Output Content: | **(dollars in millions) ** | **Second Quarter ** |   | **Six Months ** |   |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |<NEWLINE>| **Acquired intangible asset amortization ** | $0.1M | $5.2M |   |   |<NEWLINE>| **Cost of sales as a % of net sales ** | 52.7% | 56.1% |   |   |<NEWLINE>| **Selling, general and administrative expenses as a % of net sales ** | 23.3% | 23.6% | 23.2% | 24.4% |",
+        "target": [
+            "| **(dollars in millions) ** | **Second Quarter ** |   | **Six Months ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |",
+            "| **Acquired intangible asset amortization ** | $ 5.2  | $ 5.1  | - | - |",
+            "| **Cost of sales as a % of net sales ** | 52.7 %  | 56.1 %  | 53.5 %  | 55.7 %  |",
+            "| **Selling, general and administrative expenses as a % of net sales ** | 23.3 %  | 23.6 %  | 23.2 %  | 24.4 %  |"
+        ]
+    },
+    "f10q0321_victoryoil_fileoutpart11": {
+        "predict": "Output Content: |   | **Three Months Ended March 31, ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>|   | **2021 ** | **2020 ** |<NEWLINE>| **Net cash used in operating activities ** | $152,243 | $2,162 |<NEWLINE>| **Net cash used in investing activities ** | $32,998 | $6,797 |<NEWLINE>| **Net cash provided by financing activities ** | $231,722 | $207,869 |",
+        "target": [
+            "|   | **Three Months Ended March 31, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** |",
+            "| **Net cash used in operating activities ** | $ (152,243)  | $ (2,162)  |",
+            "| **Net cash used in investing activities ** | (32,998)  | (6,797)  |",
+            "| **Net cash provided by financing activities ** | - | 207,869  |"
+        ]
+    },
+    "f10q0321_victoryoil_fileoutpart9": {
+        "predict": "Output: \n\n|   | **Three months ended March 31, ** |   |\n| --- | --- | --- |\n|   | **2021 ** | **2020 ** |\n| **Net loss ** | $(144,654) | $(273,049) |\n| **Basic weighted average common shares outstanding ** | 28,037,713 | 28,037,713 |\n| **Diluted weighted average common shares outstanding ** | 28,037,713 | 28,037,713 |\n| **Basic ** | $(0.01) | $(0.01) |\n| **Diluted ** | $(0.01) | $(0.01) |<NEWLINE>",
+        "target": [
+            "|   | **Three months ended March 31, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** |",
+            "| **Net loss ** | $ (144,654)  | $ (273,049)  |",
+            "| **Basic weighted average common shares outstanding ** | 28,037,713  | 28,037,713  |",
+            "| **Diluted weighted average common shares outstanding ** | 28,037,713  | 28,037,713  |",
+            "| **Basic ** | $ (0.01)  | $ (0.01)  |",
+            "| **Diluted ** | $ (0.01)  | $ (0.01)  |"
+        ]
+    },
+    "f10q0622_eaststoneacq_fileoutpart2": {
+        "predict": "Output Content: \n| **Operating costs ** | 2022 Q2 | 2022 H1 | 2021 Q2 | 2021 H1 |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Loss from operations ** | $553,983 | $956,470 | $966,456 | $1,076,393 |<NEWLINE>| **Change in fair value of derivative warrant liabilities ** | $1,019,000 | $570,000 | -$18,900 | -$35,600 |<NEWLINE>| **Extension incentive paid by Founder Shares transferred ** | $0 | $0 | $0 | $0 |<NEWLINE>| **Change in fair value of Forward Purchase Agreement ** | $2,069,000 | $2,069,000 | $0 | $0 |<NEWLINE>| **Interest earned on investments held in the trust account ** | $38,374 | $40,526 | $3,479 | $6,902 |<NEWLINE>| **Net loss ** | $1,534,609 | $1,317,744 | $944,077 | $1,033,891 |<NEWLINE>| **Weighted average shares outstanding of redeemable ordinary shares ** | 3,264,744 | 3,264,856 | 13,800,000 | 13,800,000 |<NEWLINE>| **Basic and diluted net loss per redeemable ordinary share ** | -$(0.21) | -$(0.18) | -$(0.05) | -$(0.06) |<NEWLINE>| **Weighted average shares outstanding of non-redeemable ordinary shares ** | 3,903,500 | 3,903,500 | 3,903,500 | 3,903,500 |<NEWLINE>| **Basic and diluted net loss per non-redeemable ordinary share ** | -$(0.21) | -$(0.18) | -$(0.05) | -$(0.06) |",
+        "target": [
+            "| **Operating costs ** | $ 553,983  | $ 966,456  | $ 956,470  | $ 1,076,393  |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Loss from operations ** | (553,983)  | (966,456)  | (956,470)  | (1,076,393)  |",
+            "| **Change in fair value of derivative warrant liabilities ** | (1,019,000)  | 18,900  | (570,000)  | 35,600  |",
+            "| **Extension incentive paid by Founder Shares transferred ** | - | - | (1,900,800)  | - |",
+            "| **Change in fair value of Forward Purchase Agreement ** | - | - | 2,069,000  | - |",
+            "| **Interest earned on investments held in the trust account ** | 38,374  | 3,479  | 40,526  | 6,902  |",
+            "| **Net loss ** | $ (1,534,609)  | $ (944,077)  | $ (1,317,744)  | $ (1,033,891)  |",
+            "| **Weighted average shares outstanding of redeemable ordinary shares ** | 3,264,744  | 13,800,000  | 3,264,856  | 13,800,000  |",
+            "| **Basic and diluted net loss per redeemable ordinary share ** | $ (0.21)  | $ (0.05)  | $ (0.18)  | $ (0.06)  |",
+            "| **Weighted average shares outstanding of non-redeemable ordinary shares ** | 3,903,500  | 3,903,500  | 3,903,500  | 3,903,500  |",
+            "| **Basic and diluted net loss per non-redeemable ordinary share ** | $ (0.21)  | $ (0.05)  | $ (0.18)  | $ (0.06)  |"
+        ]
+    },
+    "f10q0622_eaststoneacq_fileoutpart5": {
+        "predict": "|   | **For the Six Months Ended June 30, ** |   |\n| --- | --- | --- |\n|   | **2022 ** | **2021 ** |\n| **Net loss ** | $1,317,744 | $1,033,891 |\n| **Change in fair value of derivative warrant liabilities ** | $570,000 | $35,600 |\n| **Change in fair value of forward purchase agreement ** | $0 | $3,723,000 |\n| **Extension incentive paid by Founder Shares transferred ** | $1,900,800 | $0 |\n| **Interest earned on investments held in the trust account ** | $40,526 | $6,902 |\n| **Cash Withdrawn from trust account upon redemption of 361 ordinary shares ** | $3,704 | $0 |\n| **Investment of cash for extension into trust account ** | $2,760,000 | $2,760,000 |\n| **Net cash provided by (used in) investing activities ** |   |   |\n| **Proceeds from promissory note - ICONIQ ** | $1,380,000 | $1,380,000 |\n| **Proceeds from extension loans - related party ** | $1,380,000 | $1,380,000 |\n| **Cash - End of period ** | $3,719 | $0 |<NEWLINE>",
+        "target": [
+            "|   | **For the Six Months Ended June 30, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2022 ** | **2021 ** |",
+            "| **Net loss ** | $ (1,317,744)  | $ (1,033,891)  |",
+            "| **Change in fair value of derivative warrant liabilities ** | 570,000  | (35,600)  |",
+            "| **Change in fair value of forward purchase agreement ** | (2,069,000)  | - |",
+            "| **Extension incentive paid by Founder Shares transferred ** | 1,900,800  | - |",
+            "| **Interest earned on investments held in the trust account ** | (40,526)  | (6,902)  |",
+            "| **Cash Withdrawn from trust account upon redemption of 361 ordinary shares ** | 3,704  | - |",
+            "| **Investment of cash for extension into trust account ** | - | (1,380,000)  |",
+            "| **Net cash provided by (used in) investing activities ** | - | (1,380,000)  |",
+            "| **Proceeds from promissory note - ICONIQ ** | 568,000  | - |",
+            "| **Proceeds from extension loans - related party ** | - | 1,380,000  |",
+            "| **Cash - End of period ** | $ 3,719  | - |"
+        ]
+    },
+    "f10q0622_eaststoneacq_fileoutpart1": {
+        "predict": "|   | **June 30, 2022 ** | **December 31, 2021 ** |\n| --- | --- | --- |\n| **Cash ** | $3,719 |  |\n| **Investments held in trust account ** | $33,541,649 | $33,504,825 |\n| **Promissory note payable to shareholders ** |  |  |\n| **Promissory note payable ** | $200,000 | $200,000 |\n| **Promissory note payable to ICONIQ ** |  |  |\n| **Extension loan ** | $2,760,000 | $2,760,000 |\n| **Deferred underwriting commission ** | $402,500 | $402,500 |\n| **Derivative liabilities of forward share purchase, an option to sell 2,923,974 redeemable ordinary shares, no par value, at December 31, 2021 ** | $0 | $2,069,000 |\n| **Ordinary shares subject to possible redemption, no par value, 3,264,744 and 3,265,105 at June 30, 2022 and December 31, 2021, at redemption value of approximately $10.27 and $10.26 per share, respectively ** | 350,000 shares | 350,000 shares |",
+        "target": [
+            "|   | **June 30, 2022 ** | **December 31, 2021 ** |",
+            "| --- | --- | --- |",
+            "| **Cash ** | $ 3,719  | - |",
+            "| **Investments held in trust account ** | 33,541,649  | 33,504,825  |",
+            "| **Promissory note payable to shareholders ** | 471,459  | 350,000  |",
+            "| **Promissory note payable ** | 200,000  | 200,000  |",
+            "| **Promissory note payable to ICONIQ ** | 568,000  | - |",
+            "| **Extension loan ** | 2,760,000  | 2,760,000  |",
+            "| **Deferred underwriting commission ** | 402,500  | 402,500  |",
+            "| **Derivative liabilities of forward share purchase, an option to sell 2,923,974 redeemable ordinary shares, no par value, at December 31, 2021 ** | - | 2,069,000  |",
+            "| **Ordinary shares subject to possible redemption, no par value, 3,264,744 and 3,265,105 at June 30, 2022 and December 31, 2021, at redemption value of approximately $10.27 and $10.26 per share, respectively ** | 33,541,649  | - |"
+        ]
+    },
+    "msb-20210731x10q_fileoutpart7": {
+        "predict": "Output: |   | **Unallocated Reserve ** | **Total ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Net income ** | $35,329,900  | $35,329,900 |<NEWLINE>| **Balances at July 31, 2021 ** | $38,949,336 | $38,949,336 |",
+        "target": [
+            "|   | **Unallocated Reserve ** | **Total ** |",
+            "| --- | --- | --- |",
+            "| **Net income ** | 35,329,900  | 35,329,900  |",
+            "| **Balances at July 31, 2021 ** | $ 38,949,336  | - |"
+        ]
+    },
+    "msb-20210731x10q_fileoutpart2": {
+        "predict": "Output Content: | **Accrued income receivable ** |   |   |<NEWLINE>| --- | --- | --- |<NEWLINE>| As of January 31, 2021 | $249,477 |   |<NEWLINE>| As of July 31, 2021 (unaudited) | $12,634,653 |   |<NEWLINE>| **Contract asset ** |   |   |<NEWLINE>| As of January 31, 2021 | $177,251 |   |<NEWLINE>| **Contract liability ** |   |   |<NEWLINE>| As of January 31, 2021 | $61,881 |   |<NEWLINE>| As of July 31, 2021 (unaudited) | $896,931 |   |<NEWLINE>| **Unallocated reserve ** |   |   |<NEWLINE>| As of July 31, 2020 | $12,115,431 |   |<NEWLINE>| Fiscal year ended January 31, 2021 |   |   |<NEWLINE>| As of July 31, 2021 | $38,949,336 |   |",
+        "target": [
+            "| **Accrued income receivable ** | 12,634,653  | 249,477  |",
+            "| --- | --- | --- |",
+            "| **Contract asset ** | - | 177,251  |",
+            "| **Contract liability ** | 896,931  | - |",
+            "| **Unallocated reserve ** | 38,949,336  | - |"
+        ]
+    },
+    "msb-20210731x10q_fileoutpart11": {
+        "predict": "Output Content: | **Three Months Ended ** | **Pellets Produced from Trust Lands (Tons) ** | **Pellets Shipped from Trust Lands (Tons) ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **July 31, 2021 ** | 1,157,588 | 1,446,876 |<NEWLINE>| **July 31, 2020 ** | (22,898) | 973,744 |",
+        "target": [
+            "| **Three Months Ended ** | **Pellets Produced from Trust Lands (Tons) ** | **Pellets Shipped from Trust Lands (Tons) ** |",
+            "| --- | --- | --- |",
+            "| **July 31, 2021 ** | 1,157,588  | 1,446,876  |",
+            "| **July 31, 2020 ** | (22,898)  | 973,744  |"
+        ]
+    },
+    "msb-20210731x10q_fileoutpart8": {
+        "predict": "Output: |   | **Unallocated Reserve ** | **Total ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Net income ** | $26,756,030 | $26,756,030 |<NEWLINE>| **Balances at July 31, 2021 ** | $38,949,336 | $38,949,336 |",
+        "target": [
+            "|   | **Unallocated Reserve ** | **Total ** |",
+            "| --- | --- | --- |",
+            "| **Net income ** | 26,756,030  | 26,756,030  |",
+            "| **Balances at July 31, 2021 ** | $ 38,949,336  | - |"
+        ]
+    },
+    "msb-20210731x10q_fileoutpart18": {
+        "predict": "Output: \n|   | **July 31, 2021 ** | **January 31, 2021 ** |\n| --- | --- | --- |\n| **Accrued Income Receivable ** | $12,634,653 | $249,477 |\n| **Contract Asset ** |  | $239,132 |\n| **Contract Liability ** | $896,931 | $61,881 |\n| **Unallocated Reserve ** | $38,949,336 |  |<NEWLINE>",
+        "target": [
+            "|   | **July 31, 2021 ** | **January 31, 2021 ** |",
+            "| --- | --- | --- |",
+            "| **Accrued Income Receivable ** | $12,634,653  | $ 249,477  |",
+            "| **Contract Asset ** | - | 177,251  |",
+            "| **Contract Liability ** | (896,931)  | - |",
+            "| **Unallocated Reserve ** | $38,949,336  | - |"
+        ]
+    },
+    "bzrd10q_q3o_fileoutpart4": {
+        "predict": "|   | **Blubuzzard, Inc. of Operations (Unaudited) For the Three Months Ended September 30, 2022 ** | **For the Three Months Ended September 30, 2021 ** | **For the Nine Months Ended September 30, 2022 ** | **For the Nine Months Ended September 30, 2021 ** |\n| --- | --- | --- | --- | --- |\n| **General and administrative expenses ** |   |   |   |   |\n| **Total operating expenses ** | $4,833 | $16,109 | $29,667 | $23,397 |\n| **Net loss ** | $4,833 | $16,109 | $29,667 | $23,397 |\n| **Weighted average number of common shares - Basic and Diluted ** | 729,483,160 | 729,483,160 | 729,483,160 | 729,483,160 |<NEWLINE>",
+        "target": [
+            "|   | **Blubuzzard, Inc. of Operations (Unaudited) For the Three Months Ended September 30, 2022 ** | **For the Three Months Ended September 30, 2021 ** | **For the Nine Months Ended September 30, 2022 ** | **For the Nine Months Ended September 30, 2021 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **General and administrative expenses ** | $ 4,833  | $ 16,109 $  | 29,667 $  | 23,397  |",
+            "| **Total operating expenses ** | 4,833  | 16,109  | 29,667  | 23,397  |",
+            "| **Net loss ** | $ (4,833)  | (16,109) $  | (29,667) $  | (23,397)  |",
+            "| **Weighted average number of common shares - Basic and Diluted ** | 729,483,160  | 729,483,160  | 729,483,160  | 729,483,160  |"
+        ]
+    },
+    "j111921010q_fileoutpart3": {
+        "predict": "Output: \n\n|   | **For the Three Months Ended September 30, ** |   | **For the Nine Months Ended September 30, ** |   |\n| --- | --- | --- | --- | --- |\n|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |\n| **Compensation ** |   |   | $17,600 | $6,300 |\n| **Total operating expenses ** | $32,056 | $10,231 | $34,540 | $21,385 |\n| **Operating Loss ** | $32,056 | $10,231 | $34,540 | $21,385 |\n| **Other income ** |   |   | $886 |   |\n| **Net loss before taxes ** |   |   |   |   |\n| **Net Loss ** | $32,056 | $10,231 | $33,656 | $21,385 |\n| **Internet Sciences, Inc. ** |   |   |   |   |\n| **Comprehensive Loss ** |   |   |   |   |<NEWLINE>",
+        "target": [
+            "|   | **For the Three Months Ended September 30, ** |   | **For the Nine Months Ended September 30, ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** | **2021 ** | **2020 ** |",
+            "| **Compensation ** | - | - | 17,600  | 6,300  |",
+            "| **Total operating expenses ** | 32,056  | 10,231  | 34,540  | 21,385  |",
+            "| **Operating Loss ** | (32,056)  | (10,231)  | (34,540)  | (21,385)  |",
+            "| **Other income ** | - | - | 886  | - |",
+            "| **Net loss before taxes ** | (32,056)  | (10,231)  | (33,656)  | (21,385)  |",
+            "| **Net Loss ** | $ (32,056)  | $ (10,231)  | (33,656)  | (21,385)  |",
+            "| **Internet Sciences, Inc. ** | (32,056)  | (10,231)  | (33,656)  | (21,385)  |",
+            "| **Comprehensive Loss ** | $ (32,056)  | $ (10,231)  | $ (33,656)  | $ (21,385)  |"
+        ]
+    },
+    "j111921010q_fileoutpart2": {
+        "predict": "Output Content: \n\n|   | **September 30, 2021 ** | **December 31, 2020 ** |\n| --- | --- | --- |\n| **Accounts payable and accrued liabilities ** | $54,965 | $54,970 |\n| **Accounts payable and accrued liabilities – related party ** | $4,985 | $20,985 |\n| **Due to related party ** | $102,187 | $85,225 |\n| **Loans payable ** | $881 | $881 |\n| **Common Stock Class A, 81,200,000 shares designated, 1,378,000 and 1,051,000 shares issued and outstanding, respectively ** | 1,387,000 shares at $0.001 each | 1,051,000 shares at $0.001 each |\n| **Common Stock Class B, 18,800,000 shares designated, 18,800,000 shares issued and outstanding ** | 18,800,000 shares | 18,800,000 shares |\n| **Accumulated deficit ** | $348,615 |   |\n| **Total stockholders’ deficit ** | $162,117 |   |\n| **Total Stockholders' Deficit ** | $162,117 |   |<NEWLINE>",
+        "target": [
+            "|   | **September 30, 2021 ** | **December 31, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Accounts payable and accrued liabilities ** | $ 54,965  | $ 54,970  |",
+            "| **Accounts payable and accrued liabilities – related party ** | 4,985  | 20,985  |",
+            "| **Due to related party ** | 102,187  | 85,225  |",
+            "| **Loans payable ** | - | 881  |",
+            "| **Common Stock Class A, 81,200,000 shares designated, 1,378,000 and 1,051,000 shares issued and outstanding, respectively ** | 1,387  | 1,051  |",
+            "| **Common Stock Class B, 18,800,000 shares designated, 18,800,000 shares issued and outstanding ** | 18,800  | 18,800  |",
+            "| **Accumulated deficit ** | (348,615)  | - |",
+            "| **Total stockholders’ deficit ** | (162,117)  | - |",
+            "| **Total Stockholders' Deficit ** | (162,117)  | - |"
+        ]
+    },
+    "j111921010q_fileoutpart5": {
+        "predict": "Output: \n|   | **Nine Months Ended September 30, ** |   |\n| --- | --- | --- |\n|   | **2021 ** | **2020 ** |\n| **Net loss ** | $33,656  | $21,385  |\n| **Stock based compensation ** | $17,600  | $6,300  |\n| **Forgiveness of PPP loan ** | $886  | $0  |\n| **Prepaid expenses ** |   | -$1,000  |\n| **Security deposit ** |   | $1,800  |\n| **Net cash used in operating activities ** | $16,942  | $7,836  |\n| **Proceeds from related party ** | $16,962  | $4,034  |\n| **Proceeds from issuance of common stock ** | $33,600  | $18,600  |\n| **Repayment to related party ** | $0  | $9,400  |\n| **Proceeds from loans ** | $0  | $881  |\n| **Net cash provided by financing activities ** | $16,962  | $7,815  |\n| **Cash at end of period ** | $20  |   |\n| **Issuance of common shares for repayment of related party accruals ** | $16,000  |   |",
+        "target": [
+            "|   | **Nine Months Ended September 30, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2021 ** | **2020 ** |",
+            "| **Net loss ** | $ (33,656)  | $ (21,385)  |",
+            "| **Stock based compensation ** | 17,600  | 6,300  |",
+            "| **Forgiveness of PPP loan ** | (886)  | - |",
+            "| **Prepaid expenses ** | - | 1,000  |",
+            "| **Security deposit ** | - | 1,800  |",
+            "| **Net cash used in operating activities ** | (16,942)  | (7,836)  |",
+            "| **Proceeds from related party ** | 16,962  | 4,034  |",
+            "| **Proceeds from issuance of common stock ** | - | 12,300  |",
+            "| **Repayment to related party ** | - | (9,400)  |",
+            "| **Proceeds from loans ** | - | 881  |",
+            "| **Net cash provided by financing activities ** | 16,962  | 7,815  |",
+            "| **Cash at end of period ** | $ 20  | - |",
+            "| **Issuance of common shares for repayment of related party accruals ** | $ 16,000  | - |"
+        ]
+    },
+    "jksm_10q_fileoutpart6": {
+        "predict": "|   | **Three Months ended March 31, 2023 ** | **Three Months ended March 31, 2022 ** |\n| --- | --- | --- |\n| **Machine sales ** | $343,000 | $1,033,123 |\n| **Non-Machine sales ** | $285,425 | $743,952 |\n| **Total sales ** | $628,425 | $1,770,075 |<NEWLINE>",
+        "target": [
+            "|   | **Three Months ended March 31, 2023 ** | **Three Months ended March 31, 2022 ** |",
+            "| --- | --- | --- |",
+            "| **Machine sales ** | $ 343,000  | $ 1,033,123  |",
+            "| **Non-Machine sales ** | 285,425  | 743,952  |",
+            "| **Total sales ** | $ 628,425  | - |"
+        ]
+    },
+    "jksm_10q_fileoutpart3": {
+        "predict": "Output Content: |   | **March 31, 2023 ** | **March 31, 2022 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Sales ** | $628,425 | $1,770,075 |<NEWLINE>| **Cost of sales ** | $405,312 | $1,358,438 |<NEWLINE>| **Salaries and wages (including contractors) ** | $112,887 | $267,644 |<NEWLINE>| **Other selling, general and administrative expenses ** | $130,736 | $149,613 |<NEWLINE>| **Total operating expenses ** | $243,623 | $417,257 |<NEWLINE>| **Income (loss) from operations ** | ($20,510) | $1,380 |<NEWLINE>| **Derivative gain (loss) ** | $123,301 | $287,098 |<NEWLINE>| **Interest expense ** | $47,362 | $259,094 |<NEWLINE>| **Net income (loss) ** | $55,429 | $29,384 |<NEWLINE>| **Basic ** | 81,088,719 shares |  |",
+        "target": [
+            "|   | **March 31, 2023 ** | **March 31, 2022 ** |",
+            "| --- | --- | --- |",
+            "| **Sales ** | $ 628,425  | - |",
+            "| **Cost of sales ** | 405,312  | 1,358,438  |",
+            "| **Salaries and wages (including contractors) ** | 112,887  | 267,644  |",
+            "| **Other selling, general and administrative expenses ** | 130,736  | 149,613  |",
+            "| **Total operating expenses ** | 243,623  | 417,257  |",
+            "| **Income (loss) from operations ** | (20,510)  | 1,380  |",
+            "| **Derivative gain (loss) ** | 123,301  | 287,098  |",
+            "| **Interest expense ** | (47,362)  | (259,094)  |",
+            "| **Net income (loss) ** | 55,429  | 29,384  |",
+            "| **Basic ** | 81,088,719  | - |"
+        ]
+    },
+    "jksm_10q_fileoutpart10": {
+        "predict": "|   | **March 31, 2023 ** | **December 31, 2022 ** |\n| --- | --- | --- |\n| **SBA loan May 2020 ** | $143,901 | $144,739 |\n| **Note payable September 2021 ** |   | $52,475 |\n| **Note Payable September 2022 ** | $635,658 | $730,783 |\n| **Less: discount and deferred ﬁnance costs ** | $94,095 | $121,310 |<NEWLINE>",
+        "target": [
+            "|   | **March 31, 2023 ** | **December 31, 2022 ** |",
+            "| --- | --- | --- |",
+            "| **SBA loan May 2020 ** | $ 143,901  | $ 144,739  |",
+            "| **Note payable September 2021 ** | - | 635,658  |",
+            "| **Note Payable September 2022 ** | - | 52,475  |",
+            "| **Less: discount and deferred ﬁnance costs ** | - | (94,095)  |"
+        ]
+    },
+    "mepw_2022mar21-10q_fileoutpart4": {
+        "predict": "Output: |   | ** Common Stock  Shares ** | **Accumulated Deﬁcit  ** | **Total Stockholders' Deﬁciency ** |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **Balance at December 31, 2021 ** | 227,375,000 | $42,120 | -$42,120 |<NEWLINE>| **Net Loss for the Three Months Ended March 31, 2022 ** |  | -$1,469 | -$1,469 |<NEWLINE>| **Balance at March 31, 2022 ** | 227,375,000 | -$95,676 | -$43,589 |",
+        "target": [
+            "|   | ** Common Stock  Shares ** | **Accumulated Deﬁcit  ** | **Total Stockholders' Deﬁciency ** |",
+            "| --- | --- | --- | --- |",
+            "| **Balance at December 31, 2021 ** | 227,375,000  | - | $ (42,120)  |",
+            "| **Net Loss for the Three Months Ended March 31, 2022 ** | - | $ (1,469)  | $ (1,469)  |",
+            "| **Balance at March 31, 2022 ** | 227,375,000  | $ (95,676)  | $ (43,589)  |"
+        ]
+    },
+    "mepw_2022mar21-10q_fileoutpart8": {
+        "predict": "|   | **As at March      31, 2022 ** | **As at December 31, 2021 ** |\n| --- | --- | --- |\n| **Current Assets ** | $0  | $0 |\n| **Current Liabilities ** | $43,589 | $42,120 |\n| **Working Capital (deficiency) ** | ($43,589) | $42,120 |<NEWLINE>",
+        "target": [
+            "|   | **As at March      31, 2022 ** | **As at December 31, 2021 ** |",
+            "| --- | --- | --- |",
+            "| **Current Assets ** | $ 0  | $ 0  |",
+            "| **Current Liabilities ** | $ 43,589  | $ 42,120  |",
+            "| **Working Capital (deficiency) ** | $ (43,589)  | $ (42,120)  |"
+        ]
+    },
+    "mepw_2022mar21-10q_fileoutpart9": {
+        "predict": "Output Content: | **Cash Flows ** | **Three months Ended March 31, 2022 ** | **Three months Ended March    31, 2021 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Net cash used in operating activities ** | $1,940  | $0  |<NEWLINE>| **Net cash used in investing activities ** |   |   |<NEWLINE>| **Net cash provided by financing activities ** | $1,940  | $0  |",
+        "target": [
+            "| **Cash Flows ** | **Three months Ended March 31, 2022 ** | **Three months Ended March    31, 2021 ** |",
+            "| --- | --- | --- |",
+            "| **Net cash used in operating activities ** | $ (1,940)  | $ 0  |",
+            "| **Net cash used in investing activities ** | $ 0  | - |",
+            "| **Net cash provided by financing activities ** | $ 1,940  | $ 0  |"
+        ]
+    },
+    "iraa-20220630x10q_fileoutpart3": {
+        "predict": "Output Content: \n\n|   | **Class B Common Stock ** | **Additional Paid-in Capital ** | **Accumulated Deficit ** | **Total Stockholders’ Deficit** |\n| --- | --- | --- | --- | --- |\n|   | **Shares ** |   |   |   |\n| **Balance - December 31, 2021 ** | 6,900,000 |   |   |   |\n| **Balance as of March 31, 2022 (Unaudited) ** | 6,900,000 |   |   |   |\n| **Forgiveness of payable due to an affiliate of the Sponsor ** |   | $140,000 |   |   |\n| **Net income ** |   |   | $3,712,688 |   |\n| **Balance as of June 30, 2022 (Unaudited) ** | 6,900,000 |   |   |   |<NEWLINE>",
+        "target": [
+            "|   | **Class B Common Stock ** | **Additional Paid-in Capital ** | **Accumulated Deficit ** | **Total Stockholders’ Deficit** |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **Shares ** |   |   |   |",
+            "| **Balance - December 31, 2021 ** | 6,900,000  | - | - | - |",
+            "| **Balance as of March 31, 2022 (Unaudited) ** | 6,900,000  | - | - | - |",
+            "| **Forgiveness of payable due to an affiliate of the Sponsor ** | - | 140,000  | - | 140,000  |",
+            "| **Net income ** | - | - | 3,712,688  | 3,712,688  |",
+            "| **Balance as of June 30, 2022 (Unaudited) ** | 6,900,000  | $140,000  | - | - |"
+        ]
+    },
+    "iraa-20220630x10q_fileoutpart2": {
+        "predict": "Output Content: |   | **Three Months Ended June 30, ** |   | **Six Months Ended June 30, ** |   |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>|   | **2022 ** | **2021 ** | **2022 ** | **2021 ** |<NEWLINE>| **Formation and operating costs ** | $291,993 | $395,233 | $876,623 | $793,254 |<NEWLINE>| **Loss from operations ** |   |   |   |   |<NEWLINE>| **Change in fair value of warrant liability ** | $4,211,660 | $229,859 | $8,605,210 | ($430,086) |<NEWLINE>| **Interest income on marketable securities held in Trust Account ** | $161,103 | $4,310 | $167,910 | $4,310 |<NEWLINE>| **Unrealized loss on investments held in Trust Account ** | $368,082 |   | $368,082 |   |<NEWLINE>| **Offering costs ** |   | $606,622 |   | $606,622 |<NEWLINE>| **Excess of fair value of Private Warrants over proceeds received ** |   |   |   | $298,825 |<NEWLINE>| **Net income (loss) ** | $3,712,688 | ($161,064) | $7,528,415 | ($2,124,477) |<NEWLINE>| **Basic and diluted weighted average shares outstanding, Class A common stock subject to possible redemption ** | 27,600,000 | 27,600,000 | 27,600,000 | 27,600,000 |<NEWLINE>| **Basic and diluted weighted average shares outstanding, Class B common stock ** | 6,900,000 | 6,900,000 | 6,900,000 | 6,900,000 |",
+        "target": [
+            "|   | **Three Months Ended June 30, ** |   | **Six Months Ended June 30, ** |   |",
+            "| --- | --- | --- | --- | --- |",
+            "|   | **2022 ** | **2021 ** | **2022 ** | **2021 ** |",
+            "| **Formation and operating costs ** | $ 291,993  | $ 395,233  | $ 876,623  | $ 793,254  |",
+            "| **Loss from operations ** | (291,993)  | (395,233)  | (876,623)  | (793,254)  |",
+            "| **Change in fair value of warrant liability ** | 4,211,660  | 229,859  | 8,605,210  | (430,086)  |",
+            "| **Interest income on marketable securities held in Trust Account ** | 161,103  | 4,310  | 167,910  | 4,310  |",
+            "| **Unrealized loss on investments held in Trust Account ** | (368,082)  | - | (368,082)  | - |",
+            "| **Offering costs ** | - | - | - | (606,622)  |",
+            "| **Excess of fair value of Private Warrants over proceeds received ** | - | - | - | (298,825)  |",
+            "| **Net income (loss) ** | $ 3,712,688  | $ (161,064)  | $ 7,528,415  | $ (2,124,477)  |",
+            "| **Basic and diluted weighted average shares outstanding, Class A common stock subject to possible redemption ** | 27,600,000  | 27,600,000  | 27,600,000  | 27,600,000  |",
+            "| **Basic and diluted weighted average shares outstanding, Class B common stock ** | 6,900,000  | 6,900,000  | 6,900,000  | 6,900,000  |"
+        ]
+    },
+    "iraa-20220630x10q_fileoutpart5": {
+        "predict": "Output Content: |   | **Six Months Ended June 30, ** |   |<NEWLINE>| --- | --- | --- |<NEWLINE>|   | **2022 ** | **2021 ** |<NEWLINE>| **Net income (loss) ** | $7,528,415 | $2,124,477 |<NEWLINE>| **Excess of fair value of Private Warrants over proceeds received ** |   | $298,825 |<NEWLINE>| **(Gain) loss on change in fair value of warrant liability ** | $8,605,210 | $430,086 |<NEWLINE>| **Interest earned on cash and Investments held in Trust Account ** | $167,910 | $4,310 |<NEWLINE>| **Unrealized loss on Investments held in Trust Account ** | $368,082 |   |<NEWLINE>| **Offering Costs ** |   | $606,622 |<NEWLINE>| **Franchise tax payable ** | $300,000 |   |<NEWLINE>| **Net cash used in operating activities ** | $585,799 | $859,128 |<NEWLINE>| **Cash Deposited in Trust Account ** |   | $276,000,000 |<NEWLINE>| **Net cash used in investing activities ** |   | $276,000,000 |<NEWLINE>| **Proceeds from sale of Units, net of offering costs ** |   | $275,552,107 |<NEWLINE>| **Proceeds from issuance of Private Warrants ** |   | $7,520,000 |<NEWLINE>| **Payment of underwriter discount ** |   | $5,520,000 |<NEWLINE>| **Proceeds from promissory note – related party ** | $300,000 |   |<NEWLINE>| **Net cash provided by financing activities ** | $300,000 | $277,552,107 |<NEWLINE>| **Cash, beginning of period ** | $336,228 |   |<NEWLINE>| **Cash, end of period ** | $50,429 |   |<NEWLINE>| **Deferred underwriting fee payable charged to additional paid-in capital ** |   | $9,660,000 |<NEWLINE>| **Forgiveness of payable due to an affiliate of the Sponsor ** | $140,000 |   |",
+        "target": [
+            "|   | **Six Months Ended June 30, ** |   |",
+            "| --- | --- | --- |",
+            "|   | **2022 ** | **2021 ** |",
+            "| **Net income (loss) ** | $ 7,528,415  | $ (2,124,477)  |",
+            "| **Excess of fair value of Private Warrants over proceeds received ** | - | 298,825  |",
+            "| **(Gain) loss on change in fair value of warrant liability ** | (8,605,210)  | 430,086  |",
+            "| **Interest earned on cash and Investments held in Trust Account ** | (167,910)  | (4,310)  |",
+            "| **Unrealized loss on Investments held in Trust Account ** | 368,082  | - |",
+            "| **Offering Costs ** | - | 606,622  |",
+            "| **Franchise tax payable ** | 100,000  | 100,000  |",
+            "| **Net cash used in operating activities ** | (585,799)  | (859,128)  |",
+            "| **Cash Deposited in Trust Account ** | - | (276,000,000)  |",
+            "| **Net cash used in investing activities ** | - | (276,000,000)  |",
+            "| **Proceeds from sale of Units, net of offering costs ** | - | 275,552,107  |",
+            "| **Proceeds from issuance of Private Warrants ** | - | 7,520,000  |",
+            "| **Payment of underwriter discount ** | - | (5,520,000)  |",
+            "| **Proceeds from promissory note – related party ** | 300,000  | - |",
+            "| **Net cash provided by financing activities ** | 300,000  | 277,552,107  |",
+            "| **Cash, beginning of period ** | 336,228  | - |",
+            "| **Cash, end of period ** | $ 50,429  | - |",
+            "| **Deferred underwriting fee payable charged to additional paid-in capital ** | - | $ 9,660,000  |",
+            "| **Forgiveness of payable due to an affiliate of the Sponsor ** | $ 140,000  | - |"
+        ]
+    },
+    "pacq20200331_10q_fileoutpart3": {
+        "predict": "Output Content: |   | **For the three months ended March 31, ** |   |<NEWLINE>|   | **2020 ** | **2019 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Administrative expenses ** | $30,000 | $30,000 |<NEWLINE>| **General expenses ** | $1,184,626 | $101,163 |<NEWLINE>| **Franchise taxes ** | $50,450 | $57,968 |<NEWLINE>| **Other income - investment income on Trust Account ** | $1,182,962 | $2,434,969 |<NEWLINE>| **Income tax provision ** | $229,081 | $500,833 |<NEWLINE>| **Net income (loss) attributable to common shares ** | $(311,195) | $1,745,005 |<NEWLINE>| **Class A common stock ** | 36,819,386 | 41,400,000 |<NEWLINE>| **Class B common stock ** | 10,350,000 | 10,350,000 |",
+        "target": [
+            "|   | **For the three months ended March 31, ** |   |",
+            "|   | **2020 ** | **2019 ** |",
+            "| --- | --- | --- |",
+            "| **Administrative expenses ** | 30,000  | 30,000  |",
+            "| **General expenses ** | 1,184,626  | 101,163  |",
+            "| **Franchise taxes ** | 50,450  | 57,968  |",
+            "| **Other income - investment income on Trust Account ** | 1,182,962  | 2,434,969  |",
+            "| **Income tax provision ** | 229,081  | 500,833  |",
+            "| **Net income (loss) attributable to common shares ** | $ (311,195)  | $ 1,745,005  |",
+            "| **Class A common stock ** | 36,819,386  | 41,400,000  |",
+            "| **Class B common stock ** | 10,350,000  | 10,350,000  |"
+        ]
+    },
+    "lcahu-20210930x10q_fileoutpart2": {
+        "predict": "|   | **Three months ended September 30, 2021 ** | **Nine months ended September 30, 2021 ** | **For the period from August 13, 2020 (inception) through September 30, 2020 ** |\n| --- | --- | --- | --- |\n| **Interest income ** | $7,682 | $23,181 |   |\n| **Gain (loss) on warrant derivative liability ** | $1,250,000 | $12,500,000 |   |\n| **Income before taxes ** | $321,123 | $10,268,480 |   |\n| **Net income ** | $321,123 | $10,268,480 |   |\n| **Net income per share ** | $0.01 | $0.16 |   |\n| **Basic and diluted weighted average number of shares outstanding ** | 6,250,000 | 6,250,000 |   |\n| **Net income per share ** | $0.01 | $0.16 |   |<NEWLINE>",
+        "target": [
+            "|   | **Three months ended September 30, 2021 ** | **Nine months ended September 30, 2021 ** | **For the period from August 13, 2020 (inception) through September 30, 2020 ** |",
+            "| **Interest income ** | 7,682  | 23,181  | - |",
+            "| --- | --- | --- | --- |",
+            "| **Gain (loss) on warrant derivative liability ** | 1,250,000  | - | - |",
+            "| **Income before taxes ** | 321,123  | 10,268,480  | - |",
+            "| **Net income ** | $ 321,123  | $ 10,268,480  | - |",
+            "| **Net income per share ** | $ 0.01  | $ 0.16  | - |",
+            "| **Basic and diluted weighted average number of shares outstanding ** | - | - | 6,250,000  |",
+            "| **Net income per share ** | $ 0.01  | $ 0.16  | - |"
+        ]
+    },
+    "lcahu-20210930x10q_fileoutpart4": {
+        "predict": "Output Content: |   | **Nine months ended September 30, 2021 ** |<NEWLINE>| --- | --- |<NEWLINE>| **Net income ** | $10,268,480 |<NEWLINE>| **Trust account interest income ** | $23,181 |<NEWLINE>| **Decrease (increase) in prepaid expenses ** | ($1,258,499) |<NEWLINE>| **Increase (decrease) in accounts payable and accrued liabilities ** | $120,000 |<NEWLINE>| **Cash deposited in trust account ** | $500,000,000 |<NEWLINE>| **Proceeds from public offering ** | $500,000,000 |<NEWLINE>| **Proceeds from affiliate notes payable ** | $853,712 |<NEWLINE>| **Payment of offering costs in affiliate notes payable ** | $942,390 |<NEWLINE>| **Cash at end of period ** | $500,023,181 |<NEWLINE>| **Deferred underwriting commissions ** | $17,500,000 |",
+        "target": [
+            "|   | **Nine months ended September 30, 2021 ** |",
+            "| --- | --- |",
+            "| **Net income ** | $ 10,268,480  |",
+            "| **Trust account interest income ** | (23,181)  |",
+            "| **Decrease (increase) in prepaid expenses ** | (1,258,499)  |",
+            "| **Increase (decrease) in accounts payable and accrued liabilities ** | 120,000  |",
+            "| **Cash deposited in trust account ** | (500,000,000)  |",
+            "| **Proceeds from public offering ** | 500,000,000  |",
+            "| **Proceeds from affiliate notes payable ** | 853,712  |",
+            "| **Payment of offering costs in affiliate notes payable ** | (197,315)  |",
+            "| **Cash at end of period ** | $ 113,902  |",
+            "| **Deferred underwriting commissions ** | $ 17,500,000  |"
+        ]
+    },
+    "lcahu-20210930x10q_fileoutpart1": {
+        "predict": "Output: \n\n|   | **September 30, 2021 (unaudited) ** |\n| --- | --- |\n| **Cash ** | $113,902 |\n| **Prepaid expenses ** | $1,258,499 |\n| **Cash and marketable securities held in trust account ** | $500,023,181 |\n| **Accounts payable and accrued liabilities ** | $120,000 |\n| **Notes payable, affiliates ** | $853,712 |\n| **Deferred underwriting commissions ** | $17,500,000 |\n| **Class A common stock subject to possible redemption, 50,000,000 shares at redemption value of $10.00 per share ** | $500,000,000 |",
+        "target": [
+            "|   | **September 30, 2021 (unaudited) ** |",
+            "| --- | --- |",
+            "| **Cash ** | $ 113,902  |",
+            "| **Prepaid expenses ** | 1,258,499  |",
+            "| **Cash and marketable securities held in trust account ** | 500,023,181  |",
+            "| **Accounts payable and accrued liabilities ** | $ 120,000  |",
+            "| **Notes payable, affiliates ** | 853,712  |",
+            "| **Deferred underwriting commissions ** | 17,500,000  |",
+            "| **Class A common stock subject to possible redemption, 50,000,000 shares at redemption value of $10.00 per share ** | $ 500,000,000  |"
+        ]
+    },
+    "brhc10025986_10q_fileoutpart7": {
+        "predict": "Output Content: \n\n|   | **Three Months Ended March 31, 2021** |\n| --- | --- |\n| **Interest Income** | $31,721 |\n| **Class A Ordinary Shares, Basic and Diluted** | 27,600,000 |\n| **Net Income** | $5,572,126 |\n| **Class B Ordinary Shares, Basic and Diluted** | 6,900,000 |<NEWLINE>",
+        "target": [
+            "|   | **Three Months Ended March 31, 2021 ** |",
+            "| --- | --- |",
+            "| **Interest Income ** | $ 31,721  |",
+            "| **Class A Ordinary Shares, Basic and Diluted ** | 27,600,000  |",
+            "| **Net Income ** | $ 5,572,126  |",
+            "| **Class B Ordinary Shares, Basic and Diluted ** | 6,900,000  |"
+        ]
+    },
+    "brhc10025986_10q_fileoutpart4": {
+        "predict": "Output Content: | **Operating costs ** | **$ 184,784 ** |<NEWLINE>| --- | --- |<NEWLINE>| **Loss from operations ** |   |<NEWLINE>| **Interest earned on marketable securities held in Trust Account ** | **$31,721** |<NEWLINE>| **Change in fair value of warrant liability ** | **$7,328,958** |<NEWLINE>| **Change in fair value of FPA liability ** | **-$1,603,769** |<NEWLINE>| **Net Income ** | **$5,572,126** |<NEWLINE>| **Weighted average shares outstanding of Class A ordinary shares ** | **27,600,000** |<NEWLINE>| **Weighted average shares outstanding of Class B ordinary shares ** | **6,900,000** |",
+        "target": [
+            "| **Operating costs ** | **$ 184,784 ** |",
+            "| --- | --- |",
+            "| **Loss from operations ** | (184,784)  |",
+            "| **Interest earned on marketable securities held in Trust Account ** | 31,721  |",
+            "| **Change in fair value of warrant liability ** | 7,328,958  |",
+            "| **Change in fair value of FPA liability ** | (1,603,769)  |",
+            "| **Net Income ** | $ 5,572,126  |",
+            "| **Weighted average shares outstanding of Class A ordinary shares ** | 27,600,000  |",
+            "| **Weighted average shares outstanding of Class B ordinary shares ** | 6,900,000  |"
+        ]
+    },
+    "f-20220630_fileoutpart58": {
+        "predict": "Output Content: |   | **June 30, 2022 ** |<NEWLINE>| --- | --- |<NEWLINE>| **Company Cash ** |  $28.7 billion  |<NEWLINE>| **Liquidity ** |  $45.1 billion  |<NEWLINE>| **Debt ** |  $19.4 billion  |",
+        "target": [
+            "|   | **June 30, 2022 ** |",
+            "| --- | --- |",
+            "| **Company Cash ** | $ 28.7  |",
+            "| **Liquidity ** | 45.1  |",
+            "| **Debt ** | (19.4)  |"
+        ]
+    },
+    "f-20220630_fileoutpart73": {
+        "predict": "Output: |   | **Second Quarter ** |   |<NEWLINE>|   | **Company excluding Ford Credit ** | **Consolidated ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Interest expense on Company debt excluding Ford Credit ** | $312 million |   |<NEWLINE>| **Provision for/(Benefit from) income taxes ** | $153 million |   |<NEWLINE>| **Net income/(loss) attributable to Ford Motor Company ** | $667 million |   |",
+        "target": [
+            "|   | **Second Quarter ** |   |",
+            "|   | **Company excluding Ford Credit ** | **Consolidated ** |",
+            "| --- | --- | --- |",
+            "| **Interest expense on Company debt excluding Ford Credit ** | 312  | 312  |",
+            "| **Provision for/(Benefit from) income taxes ** | - | 153  |",
+            "| **Net income/(loss) attributable to Ford Motor Company ** | - | $ 667  |"
+        ]
+    },
+    "f-20220630_fileoutpart42": {
+        "predict": "Output Content: \n\n|   |   |   | **First Half ** |   |<NEWLINE>|   | **2022 ** | **H / (L) ** | **2021 ** | **H / (L) ** |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Cash Flows from Operating Activities ($B) ** | $2.9B | +$2.2B |   |   |<NEWLINE>| **Net Income/(Loss) ($M) ** | $667M | +$106M |   |   |<NEWLINE>| **Net Income/(Loss) Margin (%) ** | 1.7% | -0.4pp |   |   |<NEWLINE>| **Company Adj. Free Cash Flow ($B) ** | $3.6B | +$8.7B |   |   |<NEWLINE>| **Company Adj. EBIT ($M) ** | $3,722M |   |   |   |<NEWLINE>| **Company Adj. EBIT Margin (%) ** | 9.3% | +5.4pp |   |   |<NEWLINE>| **Adjusted EPS (Diluted) ** | $0.68 |   |   |   |",
+        "target": [
+            "|   |   |   | **First Half ** |   |",
+            "|   | **2022 ** | **H / (L) ** | **2021 ** | **H / (L) ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Cash Flows from Operating Activities ($B) ** | $ 2.9  | $ 2.2  | - | - |",
+            "| **Net Income/(Loss) ($M) ** | 667  | $ 106  | - | - |",
+            "| **Net Income/(Loss) Margin (%) ** | 1.7 %  | (0.4) ppts  | - | - |",
+            "| **Company Adj. Free Cash Flow ($B) ** | $ 3.6  | $ 8.7  | $ (5.5)  | - |",
+            "| **Company Adj. EBIT ($M) ** | 3,722  | - | - | - |",
+            "| **Company Adj. EBIT Margin (%) ** | 9.3 %  | 5.4 ppts  | - | 0.2 ppts  |",
+            "| **Adjusted EPS (Diluted) ** | $ 0.68  | - | - | - |"
+        ]
+    },
+    "ctlt-20230331_fileoutpart45": {
+        "predict": "| **Year-Over-Year Change** | **2023 vs. 2022** |   |\n| --- | --- | --- |\n| **Organic** |   |   |\n| **Biologics net revenue decrease** | $222 million, 32% |   |\n| **Biologics Segment EBITDA decrease** | $214 million, 98% |   |\n| **Constant-currency change** |   |   |<NEWLINE>|",
+        "target": [
+            "| **Year-Over-Year Change ** | **2023 vs. 2022 ** |   |",
+            "|   | **Three Months Ended March 31, ** |   |",
+            "| --- | --- | --- |",
+            "| **Organic ** | (32)%  | - |",
+            "| **Constant-currency change ** | (32)%  | (98)%  |"
+        ]
+    },
+    "ctlt-20230331_fileoutpart3": {
+        "predict": "Output: |   | **March 31, ** |   | **Nine Months Ended March 31, ** |   |<NEWLINE>|   | **2023 ** | **2022 ** | **2023 ** | **2022 ** |<NEWLINE>| **Goodwill impairment charges ** | $210M | $210M |   |   |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Other operating expense, net ** |   |   | $40M | $26M |<NEWLINE>| **Interest expense, net ** | $51M | $33M | $130M | $89M |<NEWLINE>| **Other (income) expense, net ** |   |   | $25M |   |<NEWLINE>| **(Loss) earnings before income taxes ** | -$282M | $176M | -$165M | $394M |<NEWLINE>| **Income tax (beneﬁt) expense ** | $55M | $35M | $19M | $63M |",
+        "target": [
+            "|   | **March 31, ** |   | **Nine Months Ended March 31, ** |   |",
+            "|   | **2023 ** | **2022 ** | **2023 ** | **2022 ** |",
+            "| **Goodwill impairment charges ** | 210  | - | 210  | - |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Other operating expense, net ** | - | - | 40  | - |",
+            "| **Interest expense, net ** | 51  | - | 130  | - |",
+            "| **Other (income) expense, net ** | - | - | - | 25  |",
+            "| **(Loss) earnings before income taxes ** | (282)  | 176  | (165)  | 394  |",
+            "| **Income tax (beneﬁt) expense ** | (55)  | 35  | - | 63  |"
+        ]
+    },
+    "ctlt-20230331_fileoutpart44": {
+        "predict": "Output Content: \n| **(Dollars in millions) ** | **Three Months Ended March 31, ** |   |<NEWLINE>\n|   | **2023 ** | **2022 ** |<NEWLINE>\n| --- | --- | --- |<NEWLINE>\n| **Interest expense, net ** | $51 million | $33 million |<NEWLINE>\n| **Income tax (beneﬁt) expense ** | -$55 million | $35 million |",
+        "target": [
+            "| **(Dollars in millions) ** | **Three Months Ended March 31, ** |   |",
+            "|   | **2023 ** | **2022 ** |",
+            "| --- | --- | --- |",
+            "| **Interest expense, net ** | 51  | - |",
+            "| **Income tax (beneﬁt) expense ** | (55)  | 35  |"
+        ]
+    },
+    "ctlt-20230331_fileoutpart48": {
+        "predict": "Output Content: \n\n|   | **2023 vs. 2022 ** |\n| **Nine Months Ended ** |\n| --- | --- |\n| **Organic ** | -9%  |\n| **Impact of acquisitions ** | 3%  |\n| **Constant-currency change ** | -9%  |\n| **Total % change ** | -6%  |",
+        "target": [
+            "|   | **2023 vs. 2022 ** |",
+            "|   | **Nine Months Ended ** |",
+            "| --- | --- |",
+            "| **Organic ** | (9)%  |",
+            "| **Impact of acquisitions ** | 3%  |",
+            "| **Constant-currency change ** | (6)%  |",
+            "| **Total % change ** | (9)%  |"
+        ]
+    },
+    "ctlt-20230331_fileoutpart47": {
+        "predict": "Output Content: \n\n| **(Dollars in millions) ** | **Nine Months Ended March 31, ** |   | **FX Impact ** | **Constant Currency Increase (Decrease) ** |   |\n| --- | --- | --- | --- | --- | --- |\n|   | **2023 ** | **2022 ** |   | **Change $ ** | **Change % ** |\n| **Net revenue ** |   |   |   | -$197 million | -6% |\n| **Gross margin ** |   |   |   | -$298 million | -26% |\n| **Selling, general, and administrative expenses ** |   |   |   | -$14 million | -7% |\n| **Goodwill impairment charges ** | $210 million |   |   |   |   |\n| **Other operating expense ** | $40 million |   |   | +$14 million | +50% |\n| **Interest expense, net ** | $130 million |   |   | +$41 million | +44% |\n| **Other (income) expense, net ** |   | $25 million |   |   |   |\n| **(Loss) earnings before income taxes ** | -$165 million | $394 million |   |   |   |\n| **Income tax (beneﬁt) expense ** | $19 million (benefit) | $63 million (provision) |   |   |   |<NEWLINE>",
+        "target": [
+            "| **(Dollars in millions) ** | **Nine Months Ended March 31, ** |   | **FX Impact ** | **Constant Currency Increase (Decrease) ** |   |",
+            "|   | **2023 ** | **2022 ** |   | **Change $ ** | **Change % ** |",
+            "| --- | --- | --- | --- | --- | --- |",
+            "| **Net revenue ** | - | - | - | $ (197)  | (6)%  |",
+            "| **Gross margin ** | - | - | (29)  | (298)  | (26)%  |",
+            "| **Selling, general, and administrative expenses ** | - | - | - | 7  | - |",
+            "| **Goodwill impairment charges ** | 210  | - | - | 210  | - |",
+            "| **Other operating expense ** | 40  | 25  | - | - | 50 %  |",
+            "| **Interest expense, net ** | 130  | - | - | 41  | 44 %  |",
+            "| **Other (income) expense, net ** | - | 25  | - | - | - |",
+            "| **(Loss) earnings before income taxes ** | (165)  | 394  | - | - | - |",
+            "| **Income tax (beneﬁt) expense ** | - | 63  | - | - | - |"
+        ]
+    },
+    "ctlt-20230331_fileoutpart42": {
+        "predict": "Output Content: | **(Dollars in millions) ** | **Three Months Ended March 31, ** | **FX Impact ** | **Constant Currency Increase (Decrease) ** |<NEWLINE>|   | **2023 ** |   | **Change $ ** | **Change % ** |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Net revenue ** |   |   | -$216 million | -17% |<NEWLINE>| **Segment EBITDA ** |   |   | -$214 million | -98% |<NEWLINE>| **Biologics Net revenue ** |   |   | -$222 million | -32% |<NEWLINE>| **Pharma and Consumer Health Net revenue ** |   |   | $6 million | 1% |",
+        "target": [
+            "| **(Dollars in millions) ** | **Three Months Ended March 31, ** | **FX Impact ** | **Constant Currency Increase (Decrease) ** |   |",
+            "|   | **2023 ** |   | **Change $ ** | **Change % ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Net revenue ** | - | - | $ (222)  | (32)%  |",
+            "| **Segment EBITDA ** | 6  | - | (214)  | (98)%  |",
+            "| **Net revenue ** | - | (17)  | 6  | 1%  |",
+            "| **Net revenue ** | - | - | $ (216)  | (17)%  |"
+        ]
+    },
+    "ctlt-20230331_fileoutpart17": {
+        "predict": "Output Content: | **(Dollars in millions) ** | **Preliminary Purchase Price Allocation ** |<NEWLINE>| --- | --- |<NEWLINE>| **Other intangibles, net ** | $52 |<NEWLINE>| **Goodwill ** |   |<NEWLINE>| **Total assets acquired and liabilities assumed ** | $474 |",
+        "target": [
+            "| **(Dollars in millions) ** | **Preliminary Purchase Price Allocation ** |",
+            "| --- | --- |",
+            "| **Other intangibles, net ** | 52  |",
+            "| **Goodwill ** | 216  |",
+            "| **Total assets acquired and liabilities assumed ** | $ 474  |"
+        ]
+    },
+    "medies_i10q-053123_fileoutpart4": {
+        "predict": "Output: \n|   | **For the period ended May 31, 2023 ** | **For the period ended May 31, 2022 ** |<NEWLINE>| **Net loss ** | $6,336 | $9,939 |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Amortization ** | $3,265 | $2,223 |<NEWLINE>| **Depreciation ** | $1,947 | $1,947 |<NEWLINE>| **Net cash provided by (used in) Operating activities ** | ($1,012) | ($3,500) |<NEWLINE>| **Increase (decrease) in cash and equivalents ** |   | $400 |<NEWLINE>| **Cash and equivalents at end of the period ** | $850 |   |",
+        "target": [
+            "|   | **For the period ended May 31, 2023 ** | **For the period ended May 31, 2022 ** |",
+            "| **Net loss ** | $ (6,336)  | $ (9,939)  |",
+            "| --- | --- | --- |",
+            "| **Amortization ** | 3,265  | 2,223  |",
+            "| **Depreciation ** | 1,947  | 1,947  |",
+            "| **Net cash provided by (used in) Operating activities ** | (1,012)  | (3,500)  |",
+            "| **Increase (decrease) in cash and equivalents ** | (1,012)  | - |",
+            "| **Cash and equivalents at end of the period ** | $ 850  | $ 400  |"
+        ]
+    },
+    "medies_i10q-053123_fileoutpart1": {
+        "predict": "|   | **MAY 31, 2023 (Unaudited) ** | **FEBRUARY 28, 2023 (Audited) ** |\n| --- | --- | --- |\n| **Cash & cash equivalents ** | $850 |   |\n| **Intangibles (net) ** | $24,918 | $26,680 |\n| **Equipment (net) ** | $28,778 |   |\n| **TOTAL ASSETS ** | $54,546 |   |\n| **Total current liabilities ** | $56,580 |   |\n| **Note Payable - RP ** | $12,500 |   |\n| **Accounts Payable ** |  | $25,500 |\n| **Total non-current liabilities ** | $38,000 |   |\n| **Total Liabilities ** | $94,580 |   |\n| **Accumulated Deficit ** | $67,600 |   |<NEWLINE>",
+        "target": [
+            "|   | **MAY 31, 2023 (Unaudited) ** | **FEBRUARY 28, 2023 (Audited) ** |",
+            "| --- | --- | --- |",
+            "| **Cash & cash equivalents ** | $ 850  | - |",
+            "| **Intangibles (net) ** | 24,918  | - |",
+            "| **Equipment (net) ** | 28,778  | - |",
+            "| **TOTAL ASSETS ** | $ 54,546  | - |",
+            "| **Total current liabilities ** | 56,580  | - |",
+            "| **Note Payable - RP ** | 12,500  | 12,500  |",
+            "| **Accounts Payable ** | 25,500  | 25,500  |",
+            "| **Total non-current liabilities ** | 38,000  | 38,000  |",
+            "| **Total Liabilities ** | 94,580  | - |",
+            "| **Accumulated Deficit ** | (67,600)  | - |"
+        ]
+    },
+    "form10-q_fileoutpart30": {
+        "predict": "Output Content: \n\n|   | **Nine Months Ended July 31, ** | **Increase (Decrease) ** |   |\n| --- | --- | --- | --- |\n| **Hotspot/Off-the-Shelf therapies ** | $3,076,000 | 22% |   |\n| **Prostate cancer ** | $122,000 | (59%) |   |\n| **HPV-associated cancers ** | $1,533,000 | (82%) |   |\n| **Personalized neoantigen-directed therapies ** | $392,000 | (98%) |   |\n| **Other expenses ** | $1,743,000 | (48%) |   |<NEWLINE>",
+        "target": [
+            "|   | **Nine Months Ended July 31, ** | **Increase (Decrease) ** |   |",
+            "|   | **2022 ** | **$ ** | **% ** |",
+            "| --- | --- | --- | --- |",
+            "| **Hotspot/Off-the-Shelf therapies ** | $ 3,076  | - | 22%  |",
+            "| **Prostate cancer ** | - | (122)  | (59)%  |",
+            "| **HPV-associated cancers ** | - | (1,533)  | (82)%  |",
+            "| **Personalized neoantigen-directed therapies ** | - | (392)  | (98)%  |",
+            "| **Other expenses ** | - | (1,743)  | (48)%  |"
+        ]
+    },
+    "form10-q_fileoutpart27": {
+        "predict": "|   | **Preferred Stock Redemption Liability ** | **Warrant Liabilities ** | **Total ** |\n| --- | --- | --- | --- |\n| **Fair value at October 31, 2021 ** | $87,000  | $4,929,000  |   |\n| **Additions ** | $4,225,000  |   |   |\n| **Change in fair value ** | $44,000  | $4,642,000  |   |\n| **Redemption ** | $44,000  |   |   |\n| **Fair value at July 31, 2022 ** |   | $287,000  |   |<NEWLINE>",
+        "target": [
+            "|   | **Preferred Stock Redemption Liability ** | **Warrant Liabilities ** | **Total ** |",
+            "| --- | --- | --- | --- |",
+            "| **Fair value at October 31, 2021 ** | - | $ 4,929  | $ 4,929  |",
+            "| **Additions ** | 87  | - | 87  |",
+            "| **Change in fair value ** | - | (4,642)  | (4,685)  |",
+            "| **Redemption ** | (44)  | - | (44)  |",
+            "| **Fair value at July 31, 2022 ** | - | $ 287  | $ 287  |"
+        ]
+    },
+    "form10-q_fileoutpart28": {
+        "predict": "Output Content: \n\n|   | **Three Months Ended July 31, ** |   | **Increase (Decrease) ** |   |\n| --- | --- | --- | --- | --- |\n| **Hotspot/Off-the-Shelf therapies** | $1,271,000 |    | $1,271,000 | 133% |\n| **Prostate cancer** | $32,000 |    | ($122,000) | -72% |\n| **HPV-associated cancers** |   |    | ($173,000) | -41% |\n| **Personalized neoantigen-directed therapies** |   |    | ($7,000) |   |\n| **Other expenses** |   |    | $66,000 | 11% |\n| **Stock-based compensation expense included in research and development expense** |   |    |   |   |<NEWLINE>\n\nPlease note that due to the lack of specific figures for the three months ended July 31, 2021, some cells are left empty. The same applies for the \"Personalized neoantigen-directed therapies\" and \"Stock-based compensation expense included in research and development expense\" rows.",
+        "target": [
+            "|   | **Three Months Ended July 31, ** |   | **Increase (Decrease) ** |   |",
+            "|   | **2022 ** | **2021 ** | **$ ** | **% ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Hotspot/Off-the-Shelf therapies ** | $ 1,271  | - | - | 133%  |",
+            "| **Prostate cancer ** | 32  | - | - | (72)%  |",
+            "| **HPV-associated cancers ** | - | - | (173)  | (41)%  |",
+            "| **Personalized neoantigen-directed therapies ** | - | 7  | (7)  | - |",
+            "| **Other expenses ** | - | - | 66  | 11%  |",
+            "| **Stock-based compensation expense included in research and development expense ** | - | $ 29  | - | (59)%  |"
+        ]
+    },
+    "form10-q_fileoutpart4": {
+        "predict": "Output: |   | **Nine Months Ended July 31, ** |   |<NEWLINE>|   | **2022 ** | **2021 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Gain on change in value of warrants ** | $4,642,000 | $1,814,000 |<NEWLINE>| **Loss on disposal of property and equipment ** |  | $1,530,000 |<NEWLINE>| **Abandonment of intangible assets ** | $159,000 | $90,000 |<NEWLINE>| **Impairment charges on intangible assets ** | $3,005,000 |  |<NEWLINE>| **Depreciation expense ** | $45,000 | $366,000 |<NEWLINE>| **Amortization expense of intangible assets ** | $210,000 | $203,000 |<NEWLINE>| **Net gain on write-off of right-of-use asset and lease liability ** | $116,000 |  |<NEWLINE>| **Net cash used in operating activities ** | $12,307,000 | $11,703,000 |<NEWLINE>| **Net cash used in investing activities ** | $201,000 | $104,000 |<NEWLINE>| **Net proceeds of issuance of Series D preferred stock ** | $4,225,000 |  |<NEWLINE>| **Redemption of Series D preferred stock ** | $5,250,000 |  |<NEWLINE>| **Net cash (used in) provided by financing activities ** | $956,000 | $31,886,000 |<NEWLINE>| **Reclassification of preferred stock redemption liability into equity upon redemption of preferred stock ** | $44,000 |  |<NEWLINE>| **Accretion of discount and redemption feature of convertible preferred stock ** | $1,025,000 |  |",
+        "target": [
+            "|   | **Nine Months Ended July 31, ** |   |",
+            "|   | **2022 ** | **2021 ** |",
+            "| --- | --- | --- |",
+            "| **Gain on change in value of warrants ** | (4,642)  | (1,814)  |",
+            "| **Loss on disposal of property and equipment ** | - | 1,530  |",
+            "| **Abandonment of intangible assets ** | 159  | 90  |",
+            "| **Impairment charges on intangible assets ** | 3,005  | - |",
+            "| **Depreciation expense ** | 45  | 366  |",
+            "| **Amortization expense of intangible assets ** | 210  | 203  |",
+            "| **Net gain on write-off of right-of-use asset and lease liability ** | - | (116)  |",
+            "| **Net cash used in operating activities ** | (12,307)  | (11,703)  |",
+            "| **Net cash used in investing activities ** | (201)  | (104)  |",
+            "| **Net proceeds of issuance of Series D preferred stock ** | 4,312  | - |",
+            "| **Redemption of Series D preferred stock ** | (5,250)  | - |",
+            "| **Net cash (used in) provided by financing activities ** | (956)  | 31,886  |",
+            "| **Reclassification of preferred stock redemption liability into equity upon redemption of preferred stock ** | 44  | - |",
+            "| **Accretion of discount and redemption feature of convertible preferred stock ** | 1,025  | - |"
+        ]
+    },
+    "form10-q_fileoutpart18": {
+        "predict": "|   | **July 31, 2022 ** | **October 31, 2021 ** |\n| --- | --- | --- |\n| **Exercise Price ** | $20.00 - $224.00 (after down round feature triggered) | $20.00 - $224.00 |\n| **Stock Price ** | $3.73 | $38.80 |<NEWLINE>",
+        "target": [
+            "|   | **July 31, 2022 ** | **October 31, 2021 ** |",
+            "| --- | --- | --- |",
+            "| **Exercise Price ** | $ 20.00  | - |",
+            "| **Stock Price ** | $ 3.73  | $ 38.80  |"
+        ]
+    },
+    "pir-10q_20181201_fileoutpart15": {
+        "predict": "Output: \n\n|   | **13 Weeks December 1, 2018 ** | **Ended November 25, 2017 ** | **39 Weeks December 1, 2018 ** | **Ended November 25, 2017 .1** |\n| --- | --- | --- | --- | --- |\n| **EBITDA (non-GAAP) ** | ($16.9) million | $26.7 million | ($84.8) million | $41.2 million |\n| **Less: Income tax provision (beneﬁt) ** | $17.9 million | $3.7 million | $2.3 million | $4.2 million |\n| **Depreciation ** | $12.4 million | $12.8 million | $38.1 million | $40.0 million |\n| **Net income (loss) (GAAP) ** | ($50.4) million | $7.4 million | ($130.0) million | $3.4 million |<NEWLINE>",
+        "target": [
+            "|   | **13 Weeks December 1, 2018 ** | **Ended November 25, 2017 ** | **39 Weeks December 1, 2018 ** | **Ended November 25, 2017 .1** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **EBITDA (non-GAAP) ** | $ (16.9 )  | $ 26.7  | $ (84.8 )  | $ 41.2  |",
+            "| **Less: Income tax provision (beneﬁt) ** | 17.9  | 3.7  | (2.3 )  | (4.2)  |",
+            "| **Depreciation ** | 12.4  | 12.8  | 38.1  | 40.0  |",
+            "| **Net income (loss) (GAAP) ** | $ (50.4 )  | $ 7.4  | $ (130.0 )  | $ (3.4)  |"
+        ]
+    },
+    "pir-10q_20181201_fileoutpart11": {
+        "predict": "Output:\n\n|   | **13 Weeks Ended ** |   | **39 Weeks Ended ** |   |<NEWLINE>| **Key Performance Indicators ** | **December 1, 2018 ** | **November 25, 2017 ** | **December 1, 2018 ** | **November 25, 2017 ** |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Total sales decline ** | -11.9% |   | -11.3% |   |<NEWLINE>| **Company comparable sales growth (decline) ** | -10.5% |   | -10.1% |   |<NEWLINE>| **Gross proﬁt as a % of sales ** | 31.6% | 37.7% | 30.2% | 36.4% |<NEWLINE>| **Selling, general and administrative expenses as a % of sales ** | 35.6% | 32.1% | 37.6% | 33.3% |<NEWLINE>| **Operating income (loss) as a % of sales ** | (7.0%) | 2.9% |   |   |<NEWLINE>| **Net income (loss) (in millions) ** | ($50.4) | $7.4 | ($130.0) | $3.4 |<NEWLINE>| **EBITDA (in millions) (1) ** | ($16.9) | $26.7 | ($84.8) | $41.2 |<NEWLINE>",
+        "target": [
+            "|   | **13 Weeks Ended ** |   | **39 Weeks Ended ** |   |",
+            "| **Key Performance Indicators ** | **December 1, 2018 ** | **November 25, 2017 ** | **December 1, 2018 ** | **November 25, 2017 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Total sales decline ** | (11.9 %)  | - | (11.3%)  | - |",
+            "| **Company comparable sales growth (decline) ** | (10.5 %)  | - | (10.1%)  | - |",
+            "| **Gross proﬁt as a % of sales ** | 31.6 %  | 37.7%  | 30.2%  | 36.4%  |",
+            "| **Selling, general and administrative expenses as a % of sales ** | 35.6 %  | 32.1%  | 37.6%  | 33.3%  |",
+            "| **Operating income (loss) as a % of sales ** | (7.0 %)  | 2.9%  | - | - |",
+            "| **Net income (loss) (in millions) ** | $ (50.4 )  | $ 7.4  | $ (130.0)  | $ (3.4)  |",
+            "| **EBITDA (in millions) (1) ** | $ (16.9 )  | $ 26.7  | $ (84.8)  | $ 41.2  |"
+        ]
+    },
+    "pir-10q_20181201_fileoutpart14": {
+        "predict": "|   | **13 Weeks Ended ** |   |   | **39 Weeks Ended ** |   |   |   |<NEWLINE>|   | **December 1, 2018 ** | **November 25, 2017 ** |   | **December 1, 2018 ** | **November 25, 2017 ** |   |<NEWLINE>| --- | --- | --- | --- | --- | --- | --- | --- | --- |<NEWLINE>| **Total selling, general and administrative ** | $147.0 million (35.6% of sales) | $150.4 million (32.1% of sales) |   | $428.7 million (37.6% of sales) | $428.7 million (33.3% of sales) |   |   |   |",
+        "target": [
+            "|   | **13 Weeks Ended ** |   |   |   | **39 Weeks Ended ** |   |   |   |",
+            "|   | **December 1, 2018 ** |   | **November 25, 2017 ** |   | **December 1, 2018 ** |   | **November 25, 2017 ** |   |",
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| **Total selling, general and administrative ** | $ 147.0  | 35.6%  | $ 150.4  | 32.1%  | $ 428.7  | 37.6%  | $ 428.7  | 33.3%  |"
+        ]
+    },
+    "pir-10q_20181201_fileoutpart16": {
+        "predict": "|   | **13 Weeks Ended ** |   | **39 Weeks Ended ** |   |\n|   | **December 1, 2018 ** | **November 25, 2017 ** | **December 1, 2018 ** | **November 25, 2017 ** |\n| --- | --- | --- | --- | --- |\n| **EBITDA (Non-GAAP) ** | ($16.9 million) | $26.7 million | ($84.8 million) | $41.2 million |\n| **Add back: Legal and regulatory matters ** |   |   |   | $6.6 million |\n| **Adjusted EBITDA (Non-GAAP) ** |   |   |   | $47.8 million |\n| **Net income (loss) (GAAP) ** | ($50.4 million) | $7.4 million | ($130.0 million) | ($3.4 million) |\n| **Add back: Legal and regulatory matters, net of tax (1) ** |   |   |   | $3.7 million |\n| **Adjusted net income (loss) (Non-GAAP) ** |   |   | $0.3 million |   |\n| **Earnings (loss) per share (GAAP) ** | ($0.62) | $0.09 | ($1.62) | ($0.04) |\n| **Adjusted earnings (loss) per share (Non-GAAP) ** |   |   | $0.01 |   |<NEWLINE>",
+        "target": [
+            "|   | **13 Weeks Ended ** |   | **39 Weeks Ended ** |   |",
+            "|   | **December 1, 2018 ** | **November 25, 2017 ** | **December 1, 2018 ** | **November 25, 2017 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **EBITDA (Non-GAAP) ** | $ (16.9 )  | $ 26.7  | $ (84.8)  | $ 41.2  |",
+            "| **Add back: Legal and regulatory matters ** | - | - | - | 6.6  |",
+            "| **Adjusted EBITDA (Non-GAAP) ** | $ (16.9 )  | $ 26.7  | $ (84.8)  | $ 47.8  |",
+            "| **Net income (loss) (GAAP) ** | $ (50.4 )  | $ 7.4  | $ (130.0)  | $ (3.4)  |",
+            "| **Add back: Legal and regulatory matters, net of tax (1) ** | - | - | - | 3.7  |",
+            "| **Adjusted net income (loss) (Non-GAAP) ** | $ (50.4 )  | - | $ (130.0)  | $ 0.3  |",
+            "| **Earnings (loss) per share (GAAP) ** | $ (0.62 )  | $ 0.09  | $ (1.62)  | $ (0.04)  |",
+            "| **Adjusted earnings (loss) per share (Non-GAAP) ** | $ (0.62 )  | $ 0.09  | $ (1.62)  | $ 0.01  |"
+        ]
+    },
+    "eaco-20230531x10q_fileoutpart14": {
+        "predict": "Output Content: |   | **Nine Months Ended May 31, ** |   | **$ Change ** |<NEWLINE>|   | **2023 ** | **2022 ** |   |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **Income tax provision ** | $5,216,000 | $5,471,000 | -$255,000 |<NEWLINE>| **Percent of pre-tax income ** | 25.6% | 26.1% |   |",
+        "target": [
+            "|   | **Nine Months Ended May 31, ** |   | **$ Change ** |",
+            "|   | **2023 ** | **2022 ** |   |",
+            "| --- | --- | --- | --- |",
+            "| **Income tax provision ** | $ 5,216  | $ 5,471  | $ 255  |",
+            "| **Percent of pre-tax income ** | 25.6 %  | 26.1 %  |   |"
+        ]
+    },
+    "eaco-20230531x10q_fileoutpart10": {
+        "predict": "Output: |   | **Three Months Ended May 31, ** |   | **$ Change ** |<NEWLINE>|   | **2023 ** | **2022 ** |   |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **Income tax provision ** | $1,772,000 | $1,878,000 | $(106,000) |<NEWLINE>| **Percent of pre-tax income ** | 25% | 26.1% |   |<NEWLINE>",
+        "target": [
+            "|   | **Three Months Ended May 31, ** |   | **$ Change ** |",
+            "|   | **2023 ** | **2022 ** |   |",
+            "| --- | --- | --- | --- |",
+            "| **Income tax provision ** | $ 1,772  | $ 1,878  | $ (106)  |",
+            "| **Percent of pre-tax income ** | - | 26.1 %  |   |"
+        ]
+    },
+    "riv10q123120_fileoutpart39": {
+        "predict": "Output Content: \n|   | **December 31, 2020 ** | **March 31, 2020 ** |\n| --- | --- | --- |\n| **Total nonperforming assets ** | $393,000 (0.03% of total assets) | $1.4 million (0.12% of total assets) |\n| **Foregone interest on non-accrual loans (1) ** | $42,000 |  |\n| **Total nonperforming loans to total loans ** | 0.04% | 0.03% |\n| **Total nonperforming loans to total assets ** |  |  |\n| **Total nonperforming assets to total assets ** | 0.03% | 0.12% |<NEWLINE>",
+        "target": [
+            "|   | **December 31, 2020 ** | **March 31, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Total nonperforming assets ** | $ 393  | - |",
+            "| **Foregone interest on non-accrual loans (1) ** | $ 42  | - |",
+            "| **Total nonperforming loans to total loans ** | 0.04%  | - |",
+            "| **Total nonperforming loans to total assets ** | 0.03%  | 0.12%  |",
+            "| **Total nonperforming assets to total assets ** | 0.03%  | 0.12%  |"
+        ]
+    },
+    "algn-20200630_fileoutpart45": {
+        "predict": "Output Content: |   | **Three Months Ended June 30, ** |   | **Six Months Ended June 30, ** |   |<NEWLINE>|   | **2020 ** | **2019 ** | **2020 ** | **2019 ** |<NEWLINE>| --- | --- | --- | --- | --- |<NEWLINE>| **Provision for (benefit from) income taxes ** | $(32.9) million | $43.1 million | $(1,497.7) million | $51.9 million |<NEWLINE>| **Effective tax rates ** | 44.8% | 22.2% | 7,437.0% | 18.6% |",
+        "target": [
+            "|   | **Three Months Ended June 30, ** |   | **Six Months Ended June 30, ** |   |",
+            "|   | **2020 ** | **2019 ** | **2020 ** | **2019 ** |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Provision for (benefit from) income taxes ** | $ (32.9)  | $ 43.1  | $ (1,497.7)  | $ 51.9  |",
+            "| **Effective tax rates ** | 44.8 %  | 22.2 %  | 7,437.0 %  | 18.6 %  |"
+        ]
+    },
+    "pssr-20220131_fileoutpart7": {
+        "predict": "| **Revenue by type of customer: ** | **Three Months Ended January 31, 2022 ** | **Three Months Ended January 31, 2021 ** |\n| --- | --- | --- |\n| **Other ** |   |   |\n| **Total Revenue ** | $1,512,000 | $1,698,000 |<NEWLINE>",
+        "target": [
+            "| **Revenue by type of customer: ** | **Three Months Ended January 31, 2022 ** | **Three Months Ended January 31, 2021 ** |",
+            "| --- | --- | --- |",
+            "| **Other ** | 192,000  | 68,000  |",
+            "| **Total Revenue ** | $ 1,512,000  | $ 1,698,000  |"
+        ]
+    },
+    "brhc10031933_10qa_fileoutpart2": {
+        "predict": "Output Content: |   | **Three Months Ended September 30, 2021** | **Nine Months Ended September 30, 2021** | **For the Period from January 24, 2020 (Inception) Through September 30, 2020** |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **Operating and formation costs** | $271,647 | $531,533 | $5,056 |<NEWLINE>| **Loss from operations** | | | $5,056 |<NEWLINE>| **Change in fair value of warrants** | $8,640,000 | $10,240,000 | |<NEWLINE>| **Transaction costs allocated to warrants** | | $853,386 | |<NEWLINE>| **Interest earned on investments held in Trust Account** | $14,169 | $32,532 | |<NEWLINE>| **Net income (loss)** | $8,382,522 | $8,887,613 | $-5,056 |<NEWLINE>| **Weighted average shares outstanding, Class A ordinary shares** | 20,000,000 | 20,000,000 | |<NEWLINE>| **Weighted average shares outstanding, Class B ordinary shares** | 5,000,000 | 5,000,000 | |",
+        "target": [
+            "|   | **Three Months Ended September 30, ** | **Nine Months Ended September 30, ** | **For the Period from January 24, 2020 (Inception) Through September 30, ** |",
+            "|   | **2021 ** | **2021 ** | **2020 ** |",
+            "| --- | --- | --- | --- |",
+            "| **Operating and formation costs ** | - | - | $ 5,056  |",
+            "| **Loss from operations ** | - | - | (5,056)  |",
+            "| **Change in fair value of warrants ** | 8,640,000  | 10,240,000  | - |",
+            "| **Transaction costs allocated to warrants ** | - | (853,386)  | - |",
+            "| **Interest earned on investments held in Trust Account ** | 14,169  | 32,532  | - |",
+            "| **Net income (loss) ** | - | - | $ (5,056)  |",
+            "| **Weighted average shares outstanding, Class A ordinary shares ** | 20,000,000  | - | - |",
+            "| **Weighted average shares outstanding, Class B ordinary shares ** | 5,000,000  | - | - |"
+        ]
+    },
+    "brhc10031933_10qa_fileoutpart5": {
+        "predict": "Output: \n\n|   | **Nine Months Ended September 30, 2021 ** | **For the Period from January 24, 2020 (Inception) Through September 30, 2020 ** |\n| --- | --- | --- |\n| **Net income (loss) ** | $8,887,613 | -$5,056 |\n| **Adjustments to reconcile net income (loss) to net cash used in operating activities: Formation cost paid by Sponsor in exchange for issuance of founder shares ** | $5,000 | $5,056 |\n| **Interest earned on marketable securities held in Trust Account ** | $32,532 |  |\n| **Change in fair value of warrants ** | $10,240,000 |  |\n| **Transaction costs allocated to warrants ** | $853,386 |  |\n| **Net cash used in operating activities ** | -$636,628 | -$56 |\n| **Investment of cash in Trust Account ** | $200,000,000 |  |\n| **Net cash used in investing activities ** |  |  |\n| **Proceeds from issuance of Class B ordinary shares to Sponsor ** | $25,000 |  |\n| **Proceeds from sale of Private Placements Warrants ** | $6,000,000 |  |\n| **Repayment of promissory note – related party ** | $250,000 |  |\n| **Cash – End of period ** | $724,452 |  |\n| **Deferred underwriting fee payable ** | $7,000,000 |  |",
+        "target": [
+            "|   | **Nine Months Ended September 30, 2021 ** | **For the Period from January 24, 2020 (Inception) Through September 30, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Net income (loss) ** | - | $ (5,056)  |",
+            "| **Adjustments to reconcile net income (loss) to net cash used in operating activities: Formation cost paid by Sponsor in exchange for issuance of founder shares ** | - | 5,000  |",
+            "| **Interest earned on marketable securities held in Trust Account ** | (32,532)  | - |",
+            "| **Change in fair value of warrants ** | (10,240,000)  | - |",
+            "| **Transaction costs allocated to warrants ** | 853,386  | - |",
+            "| **Net cash used in operating activities ** | (636,628)  | (56)  |",
+            "| **Investment of cash in Trust Account ** | (200,000,000)  | - |",
+            "| **Net cash used in investing activities ** | (200,000,000)  | - |",
+            "| **Proceeds from issuance of Class B ordinary shares to Sponsor ** | - | 25,000  |",
+            "| **Proceeds from sale of Private Placements Warrants ** | 6,000,000  | - |",
+            "| **Repayment of promissory note – related party ** | (250,000)  | - |",
+            "| **Cash – End of period ** | $ 724,452  | - |",
+            "| **Deferred underwriting fee payable ** | $ 7,000,000  | - |"
+        ]
+    },
+    "iot-20220730_fileoutpart38": {
+        "predict": "Output: \n\n|   | **July 31, 2021 ** | **% ** | **July 31, 2022 ** | **% ** |\n| --- | --- | --- | --- | --- |\n| **Sales and marketing ** |   |   | $71.4 million  | 66% |\n| --- | --- | --- | --- | --- |\n| **Percentage of revenue ** | $188.8 million | 100% | $296.2 million | 57% |\n\n<NEWLINE> \n\n|   | **July 31, 2021 ** | **% ** | **July 31, 2022 ** | **% ** |\n| --- | --- | --- | --- | --- |\n| **Cost of revenue** |   |   | $29.9 million  | 55% |\n| --- | --- | --- | --- | --- |\n| **Revenue** | $188.8 million | 100% | $296.2 million | 57% |\n\n<NEWLINE> \n\n|   | **July 31, 2021 ** | **% ** | **July 31, 2022 ** | **% ** |\n| --- | --- | --- | --- | --- |\n| **Sales and marketing ** |   |   | $36.3 million  | 65% |\n| --- | --- | --- | --- | --- |\n| **Revenue** | $188.8 million | 100% | $296.2 million | 57% |",
+        "target": [
+            "|   | **July 31, 2021 ** | **% ** | **July 31, 2021 ** | **% ** |",
+            "| **Sales and marketing ** | - | 65 %  | - | 66 %  |",
+            "| --- | --- | --- | --- | --- |",
+            "| **Percentage of revenue ** | 55 %  |   | 57 %  |   |"
+        ]
+    },
+    "iot-20220730_fileoutpart42": {
+        "predict": "|   | **Three Months Ended ** |   |   | **Six Months Ended ** |   |   |<NEWLINE>|   | **July 30, 2022 ** | **July 31, 2021 ** | **% ** | **July 30, 2022 ** | **July 31, 2021 ** | **% ** |<NEWLINE>| --- | --- | --- | --- | --- | --- | --- |<NEWLINE>| **Provision for income taxes ** | $0.3 million decrease |   | 89% decrease | $0.4 million increase |   | 107% increase |<NEWLINE>| **Effective tax rate ** | (0.1)% | (1.2)% |   | (0.6)% | (0.5)% |   |",
+        "target": [
+            "|   | **Three Months Ended ** |   |   | **Six Months Ended ** |   |   |",
+            "|   | **July 30, 2022 ** | **July 31, 2021 ** | **% ** | **July 30, 2022 ** | **July 31, 2021 ** | **% ** |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| **Provision for income taxes ** | - | - | (89)%  | - | - | 107 %  |",
+            "| **Effective tax rate ** | (0.1 %)  | (1.2 %)  |   | (0.6 %)  | (0.5 %)  |   |"
+        ]
+    },
+    "sodi_10q_fileoutpart6": {
+        "predict": "|   | **For the three months ended May 31, 2020 ** | **For the three months ended May 31, 2019 ** |\n| --- | --- | --- |\n| **Net income (loss) ** | $369,000 | ($249,000) |\n| **Depreciation and amortization ** | $59,000 |   |\n| **Accounts receivable ** | $79,000 increase | $357,000 decrease |\n| **Inventories ** | $420,000 increase | $547,000 decrease |\n| **Prepaid expenses and other current assets ** | $61,000 increase |   |\n| **Net cash provided by operating activities ** | $293,000 | $538,000 |\n| **Proceeds from sale of securities ** | $169,000 | $35,000 |\n| **Purchases of securities ** | $222,000 | $19,000 |\n| **Purchases of property and equipment ** | $23,000 | $3,000 |\n| **Net cash (used in) provided by investing activities ** | ($76,000) | $13,000 |\n| **Cash and cash equivalents - beginning of the year ** | $1,332,000 |   |\n| **Cash and cash equivalents - end of period ** | $1,549,000 | $945,000 |",
+        "target": [
+            "|   | **For the three months ended May 31, 2020 ** | **For the three months ended May 31, 2019 ** |",
+            "| --- | --- | --- |",
+            "| **Net income (loss) ** | $ 369  | $ (249)  |",
+            "| **Depreciation and amortization ** | 59  | - |",
+            "| **Accounts receivable ** | 79  | 357  |",
+            "| **Inventories ** | (420)  | 547  |",
+            "| **Prepaid expenses and other current assets ** | (61)  | - |",
+            "| **Net cash provided by operating activities ** | 293  | 538  |",
+            "| **Proceeds from sale of securities ** | 169  | 35  |",
+            "| **Purchases of securities ** | (222)  | (19)  |",
+            "| **Purchases of property and equipment ** | (23)  | (3)  |",
+            "| **Net cash (used in) provided by investing activities ** | (76)  | 13  |",
+            "| **Cash and cash equivalents - beginning of the year ** | 1,332  | - |",
+            "| **Cash and cash equivalents - end of period ** | $ 1,549  | $ 945  |"
+        ]
+    },
+    "sodi_10q_fileoutpart4": {
+        "predict": "Output Content: \n|   | **For the three months ended ** | **For the three months ended .1** |<NEWLINE>|   | **May 31, 2020 ** | **May 31, 2019 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Net sales ** | $2,498,000 | $2,557,000 |<NEWLINE>| **Cost of sales ** | $1,642,000 | $2,366,000 |<NEWLINE>| **Gross proﬁt ** | $856,000 | $191,000 |<NEWLINE>| **Selling, general and administrative expenses ** | $486,000 | $444,000 |<NEWLINE>| **Operating income (loss) ** | $370,000 | ($253,000) |<NEWLINE>| **Dividend income ** | $6,000 | $1,000 |<NEWLINE>| **Realized gain (loss) on investments ** | $15,000 | ($16,000) |<NEWLINE>| **Unrealized gain (loss) on investments ** | ($22,000) | $19,000 |<NEWLINE>| **Net income (loss) ** | $369,000 | ($249,000) |",
+        "target": [
+            "|   | **For the three months ended ** | **For the three months ended .1** |",
+            "|   | **May 31, 2020 ** | **May 31, 2019 ** |",
+            "| --- | --- | --- |",
+            "| **Net sales ** | $ 2,498  | $ 2,557  |",
+            "| **Cost of sales ** | 1,642  | 2,366  |",
+            "| **Gross proﬁt ** | 856  | 191  |",
+            "| **Selling, general and administrative expenses ** | 486  | 444  |",
+            "| **Operating income (loss) ** | 370  | (253)  |",
+            "| **Dividend income ** | 6  | 1  |",
+            "| **Realized gain (loss) on investments ** | 15  | (16)  |",
+            "| **Unrealized gain (loss) on investments ** | (22)  | 19  |",
+            "| **Net income (loss) ** | $ 369  | $ (249)  |"
+        ]
+    },
+    "EAPHEDGARfilingSept30_21_fileoutpart9": {
+        "predict": "|   | **September 30, 2021 ** | **December 31, 2020 ** |\n| --- | --- | --- |\n| **Cash Flows from Operating Activities Net Income (Loss) ** | -$84,350 | -$46,315 |\n| **Net Cash Flows from Operating Activities ** | -$59,350 | -$43,415 |\n| **Cash Flows from Investing Activities Deposit on real estate ** | -$18,797 | -$18,797 |\n| **Net Cash Flows from Investing Activities ** |   |   |<NEWLINE>",
+        "target": [
+            "|   | **September 30, 2021 ** | **December 31, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Cash Flows from Operating Activities Net Income (Loss) ** | $(84,350)  | $(46,315)  |",
+            "| **Net Cash Flows from Operating Activities ** | (59,350)  | (43,415)  |",
+            "| **Cash Flows from Investing Activities Deposit on real estate ** | (18,797)  | (18,797)  |",
+            "| **Net Cash Flows from Investing Activities ** | (18,797)  | (18,797)  |"
+        ]
+    },
+    "fvt-20210930_fileoutpart6": {
+        "predict": "|   | **For the nine months ended September 30, 2021 ** | **For the period from August 28, 2020 (inception) through September 30, 2020 ** |\n| --- | --- | --- |\n| **Net loss ** | $238,057 | $17,217 |\n| **Interest income from investments held in Trust Account ** | $21,750 |  |\n| **Decrease in fair value of warrant liabilities ** | $7,574,721 |  |\n| **Fair value in excess of cash received for Private Placement Warrants ** | $2,396,195 |  |\n| **Offering costs related to warrant liabilities ** | $495,479 |  |\n| **Accounts payable and accrued expenses ** |  |  |\n| **Franchise tax payable ** | $149,589 |  |\n| **Cash deposited in Trust Account ** | $230,000,000 |  |\n| **Proceeds from issuance of Class F common stock to Sponsor ** | $25,000 | $25,000 |\n| **Repayment of Sponsor loan ** | $61,000 |  |\n| **Proceeds received from issuance of Private Placement Warrants ** | $7,600,000 | $7,600,000 |\n| **Cash - end of the period ** | $323,244 |  |\n| **Deferred underwriting commissions payable in connection with the Initial Public Offering ** | $8,050,000 |  |",
+        "target": [
+            "|   | **For the nine months ended September 30, 2021 ** | **For the period from August 28, 2020 (inception) through September 30, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Net loss ** | $ (238,057)  | $ (17,217)  |",
+            "| **Interest income from investments held in Trust Account ** | (21,750)  | - |",
+            "| **Decrease in fair value of warrant liabilities ** | (7,574,721)  | - |",
+            "| **Fair value in excess of cash received for Private Placement Warrants ** | 2,396,195  | - |",
+            "| **Offering costs related to warrant liabilities ** | 495,479  | - |",
+            "| **Accounts payable and accrued expenses ** | - | 17,217  |",
+            "| **Franchise tax payable ** | 149,589  | - |",
+            "| **Cash deposited in Trust Account ** | (230,000,000)  | - |",
+            "| **Proceeds from issuance of Class F common stock to Sponsor ** | - | 25,000  |",
+            "| **Repayment of Sponsor loan ** | (61,000)  | - |",
+            "| **Proceeds received from issuance of Private Placement Warrants ** | 7,600,000  | - |",
+            "| **Cash - end of the period ** | $ 323,244  | - |",
+            "| **Deferred underwriting commissions payable in connection with the Initial Public Offering ** | $ 8,050,000  | - |"
+        ]
+    },
+    "fvt-20210930_fileoutpart3": {
+        "predict": "Output: |   | **For the three months ended September 30, 2021 ** | **For the nine months ended September 30, 2021 ** | **For the period from August 28, 2020 (inception) through September 30, 2020 ** |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **General and administrative expenses ** | $307,395  | $4,793,265 | $17,217 |<NEWLINE>| **Franchise tax expense ** | $50,411 | $149,589 |   |<NEWLINE>| **Loss from operations ** |   |   |   |<NEWLINE>| **Interest income ** | $2,960 | $21,750 |   |<NEWLINE>| **Decrease in fair value of warrant liabilities ** | $3,664,000 | $7,574,721 |   |<NEWLINE>| **Fair value in excess of cash received for Private Placement Warrants ** |   | $2,396,195 |   |<NEWLINE>| **Offering costs related to warrant liabilities ** |   | $495,479 |   |<NEWLINE>| **Net income (loss) ** | $3,309,154 | ($238,057) | ($17,217) |<NEWLINE>| **Weighted average shares outstanding, Class A common stock ** | 23,000,000 | 23,000,000 |   |<NEWLINE>| **Weighted average shares outstanding, Class F common stock ** | 5,750,000 | 5,750,000 | 2,875,000 |",
+        "target": [
+            "|   | **For the three months ended September 30, 2021 ** | **For the nine months ended September 30, 2021 ** | **For the period from August 28, 2020 (inception) through September 30, 2020 ** |",
+            "| --- | --- | --- | --- |",
+            "| **General and administrative expenses ** | $ 307,395  | $ 4,793,265  | $ 17,217  |",
+            "| **Franchise tax expense ** | 50,411  | 149,589  | - |",
+            "| **Loss from operations ** | - | - | (17,217)  |",
+            "| **Interest income ** | 2,960  | 21,750  | - |",
+            "| **Decrease in fair value of warrant liabilities ** | 3,664,000  | 7,574,721  | - |",
+            "| **Fair value in excess of cash received for Private Placement Warrants ** | - | (2,396,195)  | - |",
+            "| **Offering costs related to warrant liabilities ** | - | (495,479)  | - |",
+            "| **Net income (loss) ** | $ 3,309,154  | $ (238,057)  | $ (17,217)  |",
+            "| **Weighted average shares outstanding, Class A common stock ** | 23,000,000  | 23,000,000  |   |",
+            "| **Weighted average shares outstanding, Class F common stock ** | 5,750,000  | - | - |"
+        ]
+    },
+    "pse_10q_fileoutpart3": {
+        "predict": "Output: \n\n|   | **As of November 30, 2020** | **As of August 31, 2020** |\n| --- | --- | --- |\n| **Cash and cash equivalents** | $22,509 | $22,690 |\n| **Inventory** | $2,177 | $2,269 |\n| **Total Current Assets** | $24,686 | $24,959 |\n| **TOTAL ASSETS** | $24,686 | $24,959 |\n| **Accounts payable and accrued liabilities** | $24,941 | $24,444 |\n| **Common stock payable** | $1,500 | $1,500 |\n| **Total Current Liabilities** | $26,041 | $25,944 |\n| **Common stock: 220,000,000 shares authorized; $0.001 par value; 14,375,000 and 14,100,000 shares issued and outstanding respectively.** | 14,375,000 | 14,100,000 |\n| **Total Stockholders' Deﬁcit** | -$1,355 | -$985 |\n| **TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT** | $24,686 | $24,959 |<NEWLINE>",
+        "target": [
+            "|   | **As of November 30, ** | **As of August 31, ** |",
+            "|   | **2020 ** | **2020 ** |",
+            "| --- | --- | --- |",
+            "| **Cash and cash equivalents ** | $ 22,509  | $ 22,690  |",
+            "| **Inventory ** | 2,177  | 2,269  |",
+            "| **Total Current Assets ** | 24,686  | 24,959  |",
+            "| **TOTAL ASSETS ** | $ 24,686  | $ 24,959  |",
+            "| **Accounts payable and accrued liabilities ** | $ 26,041  | $ 24,444  |",
+            "| **Common stock payable ** | - | 1,500  |",
+            "| **Total Current Liabilities ** | 26,041  | 25,944  |",
+            "| **Common stock: 220,000,000 shares authorized; $0.001 par value; 14,375,000 and 14,100,000 shares issued and outstanding respectively. ** | 14,375  | 14,100  |",
+            "| **Total Stockholders' Deﬁcit ** | (1,355)  | (985)  |",
+            "| **TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT ** | $ 24,686  | $ 24,959  |"
+        ]
+    },
+    "pse_10q_fileoutpart4": {
+        "predict": "Output Content: |   | **Three Months Ended November 30, ** |   |<NEWLINE>|   | **2020 ** | **2019 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **General and administrative ** | $113 | $555 |<NEWLINE>| **Professional fees ** | $7,625 | $18,835 |<NEWLINE>| **Net loss before income taxes ** |   |   |<NEWLINE>| **Net loss ** | $5,870 | $19,300 |",
+        "target": [
+            "|   | **Three Months Ended November 30, ** |   |",
+            "|   | **2020 ** | **2019 ** |",
+            "| --- | --- | --- |",
+            "| **General and administrative ** | 113  | 555  |",
+            "| **Professional fees ** | 7,625  | 18,835  |",
+            "| **Net loss before income taxes ** | (5,870)  | (19,300)  |",
+            "| **Net loss ** | $ (5,870)  | $ (19,300)  |"
+        ]
+    },
+    "pse_10q_fileoutpart9": {
+        "predict": "Output: \n|   | **November 30, 2020 ** | **August 31, 2020 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Cash ** | $22,509 | $22,690 |<NEWLINE>| **Total Assets ** | $24,686 | $24,959 |<NEWLINE>| **Total Liabilities ** | $26,041 | $25,944 |<NEWLINE>| **Working Capital (Deﬁciency) ** | -$1,355 | -$985 |",
+        "target": [
+            "|   | **November 30, 2020 ** | **August 31, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Cash ** | $ 22,509  | $ 22,690  |",
+            "| **Total Assets ** | 24,686  | 24,959  |",
+            "| **Total Liabilities ** | 26,041  | 25,944  |",
+            "| **Working Capital (Deﬁciency) ** | $ (1,355)  | $ (985)  |"
+        ]
+    },
+    "pse_10q_fileoutpart10": {
+        "predict": "Output Content: | **The following table presents our working capital (deﬁciency) position as at November 30, 2020: ** | **30, 2020 November 30, 2020 ** | **and August August 31, 2020 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Current Assets ** | $24,686 | $24,959 |<NEWLINE>| **Current Liabilities ** | $26,041 | $25,944 |<NEWLINE>| **Working Capital (Deﬁciency) ** | $1,355 | $985 |",
+        "target": [
+            "| **The following table presents our working capital (deﬁciency) position as at November 31, 2020: ** | **30, 2020 November 30, 2020 ** | **and August August 31, 2020 ** |",
+            "| --- | --- | --- |",
+            "| **Current Assets ** | $ 24,686  | $ 24,959  |",
+            "| **Current Liabilities ** | 26,041  | 25,944  |",
+            "| **Working Capital (Deﬁciency) ** | $ (1,355)  | $ (985)  |"
+        ]
+    },
+    "jbt-20220630_fileoutpart40": {
+        "predict": "Output Content: |   | **Six Months Ended June 30, ** |   | **Favorable/(Unfavorable) ** |<NEWLINE>| **(In millions, except %) ** | **2022 ** | **2021 ** | **Change ** |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **Total revenue ** | $118.2M |  | 13% |<NEWLINE>| **Gross profit % ** | 28.7% | 31.7% | (300 bps) |<NEWLINE>| **Selling, general and administrative expense ** | $20.7M |  |  |<NEWLINE>| **Operating income % ** | 7.2% | 9.5% | (230 bps) |",
+        "target": [
+            "|   | **Six Months Ended June 30, ** |   | **Favorable/(Unfavorable) ** |",
+            "| **(In millions, except %) ** | **2022 ** | **2021 ** | **Change ** |",
+            "| --- | --- | --- | --- |",
+            "| **Total revenue ** | - | - | $ 118.2  |",
+            "| **Gross profit % ** | 28.7 %  | 31.7 %  | -300 bps  |",
+            "| **Selling, general and administrative expense ** | - | - | (20.7)  |",
+            "| **Operating income % ** | 7.2 %  | 9.5 %  | -230 bps  |"
+        ]
+    },
+    "jbt-20220630_fileoutpart38": {
+        "predict": "Output Content: |   | **Three Months Ended June 30, ** |   | **Favorable/(Unfavorable) ** |<NEWLINE>| **(In millions, except %) ** | **2022 ** | **2021 ** | **Change ** |<NEWLINE>| --- | --- | --- | --- |<NEWLINE>| **Total revenue ** | $66.8 | - | 14% |<NEWLINE>| **Gross profit % ** | 27.9% | 31.5% | (360 bps) |<NEWLINE>| **Selling, general and administrative expense ** | $6.7 | - | - |<NEWLINE>| **Operating income % ** | 7.8% | 9.9% | (210 bps) |",
+        "target": [
+            "|   | **Three Months Ended June 30, ** |   | **Favorable/(Unfavorable) ** |",
+            "| **(In millions, except %) ** | **2022 ** | **2021 ** | **Change ** |",
+            "| --- | --- | --- | --- |",
+            "| **Total revenue ** | - | - | $ 66.8  |",
+            "| **Gross profit % ** | 27.9 %  | 31.5 %  | -360 bps  |",
+            "| **Selling, general and administrative expense ** | - | - | (6.7)  |",
+            "| **Operating income % ** | 7.8 %  | 9.9 %  | -210 bps  |"
+        ]
+    },
+    "jbt-20220630_fileoutpart43": {
+        "predict": "Output Content: | **(In millions) ** | **Six Months Ended June 30, ** |   |<NEWLINE>|   | **2022 ** | **2021 ** |<NEWLINE>| --- | --- | --- |<NEWLINE>| **Cash provided by operating activities ** | $44.8 | $130.3 |<NEWLINE>| **Cash required by investing activities ** | $44.2 | $34.5 |<NEWLINE>| **Cash (required by) provided by financing activities ** | ($9.3) | $59.8 |",
+        "target": [
+            "| **(In millions) ** | **Six Months Ended June 30, ** |   |",
+            "|   | **2022 ** | **2021 ** |",
+            "| --- | --- | --- |",
+            "| **Cash provided by operating activities ** | $ 44.8  | - |",
+            "| **Cash required by investing activities ** | (44.2)  | - |",
+            "| **Cash (required by) provided by financing activities ** | (9.3)  | 59.8  |"
+        ]
+    }
+}
